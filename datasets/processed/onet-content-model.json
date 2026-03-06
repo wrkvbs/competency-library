@@ -1,0 +1,3152 @@
+[
+  {
+    "element_id": "1",
+    "name": "Worker Characteristics",
+    "description": "Worker Characteristics"
+  },
+  {
+    "element_id": "1.A",
+    "name": "Abilities",
+    "description": "Enduring attributes of the individual that influence performance"
+  },
+  {
+    "element_id": "1.A.1",
+    "name": "Cognitive Abilities",
+    "description": "Abilities that influence the acquisition and application of knowledge in problem solving"
+  },
+  {
+    "element_id": "1.A.1.a",
+    "name": "Verbal Abilities",
+    "description": "Abilities that influence the acquisition and application of verbal information in problem solving"
+  },
+  {
+    "element_id": "1.A.1.a.1",
+    "name": "Oral Comprehension",
+    "description": "The ability to listen to and understand information and ideas presented through spoken words and sentences."
+  },
+  {
+    "element_id": "1.A.1.a.2",
+    "name": "Written Comprehension",
+    "description": "The ability to read and understand information and ideas presented in writing."
+  },
+  {
+    "element_id": "1.A.1.a.3",
+    "name": "Oral Expression",
+    "description": "The ability to communicate information and ideas in speaking so others will understand."
+  },
+  {
+    "element_id": "1.A.1.a.4",
+    "name": "Written Expression",
+    "description": "The ability to communicate information and ideas in writing so others will understand."
+  },
+  {
+    "element_id": "1.A.1.b",
+    "name": "Idea Generation and Reasoning Abilities",
+    "description": "Abilities that influence the application and manipulation of information in problem solving"
+  },
+  {
+    "element_id": "1.A.1.b.1",
+    "name": "Fluency of Ideas",
+    "description": "The ability to come up with a number of ideas about a topic (the number of ideas is important, not their quality, correctness, or creativity)."
+  },
+  {
+    "element_id": "1.A.1.b.2",
+    "name": "Originality",
+    "description": "The ability to come up with unusual or clever ideas about a given topic or situation, or to develop creative ways to solve a problem."
+  },
+  {
+    "element_id": "1.A.1.b.3",
+    "name": "Problem Sensitivity",
+    "description": "The ability to tell when something is wrong or is likely to go wrong. It does not involve solving the problem, only recognizing that there is a problem."
+  },
+  {
+    "element_id": "1.A.1.b.4",
+    "name": "Deductive Reasoning",
+    "description": "The ability to apply general rules to specific problems to produce answers that make sense."
+  },
+  {
+    "element_id": "1.A.1.b.5",
+    "name": "Inductive Reasoning",
+    "description": "The ability to combine pieces of information to form general rules or conclusions (includes finding a relationship among seemingly unrelated events)."
+  },
+  {
+    "element_id": "1.A.1.b.6",
+    "name": "Information Ordering",
+    "description": "The ability to arrange things or actions in a certain order or pattern according to a specific rule or set of rules (e.g., patterns of numbers, letters, words, pictures, mathematical operations)."
+  },
+  {
+    "element_id": "1.A.1.b.7",
+    "name": "Category Flexibility",
+    "description": "The ability to generate or use different sets of rules for combining or grouping things in different ways."
+  },
+  {
+    "element_id": "1.A.1.c",
+    "name": "Quantitative Abilities",
+    "description": "Abilities that influence the solution of problems involving mathematical relationships"
+  },
+  {
+    "element_id": "1.A.1.c.1",
+    "name": "Mathematical Reasoning",
+    "description": "The ability to choose the right mathematical methods or formulas to solve a problem."
+  },
+  {
+    "element_id": "1.A.1.c.2",
+    "name": "Number Facility",
+    "description": "The ability to add, subtract, multiply, or divide quickly and correctly."
+  },
+  {
+    "element_id": "1.A.1.d",
+    "name": "Memory",
+    "description": "Abilities related to the recall of available information"
+  },
+  {
+    "element_id": "1.A.1.d.1",
+    "name": "Memorization",
+    "description": "The ability to remember information such as words, numbers, pictures, and procedures."
+  },
+  {
+    "element_id": "1.A.1.e",
+    "name": "Perceptual Abilities",
+    "description": "Abilities related to the acquisition and organization of visual information"
+  },
+  {
+    "element_id": "1.A.1.e.1",
+    "name": "Speed of Closure",
+    "description": "The ability to quickly make sense of, combine, and organize information into meaningful patterns."
+  },
+  {
+    "element_id": "1.A.1.e.2",
+    "name": "Flexibility of Closure",
+    "description": "The ability to identify or detect a known pattern (a figure, object, word, or sound) that is hidden in other distracting material."
+  },
+  {
+    "element_id": "1.A.1.e.3",
+    "name": "Perceptual Speed",
+    "description": "The ability to quickly and accurately compare similarities and differences among sets of letters, numbers, objects, pictures, or patterns. The things to be compared may be presented at the same time or one after the other. This ability also includes comparing a presented object with a remembered object."
+  },
+  {
+    "element_id": "1.A.1.f",
+    "name": "Spatial Abilities",
+    "description": "Abilities related to the manipulation and organization of spatial information"
+  },
+  {
+    "element_id": "1.A.1.f.1",
+    "name": "Spatial Orientation",
+    "description": "The ability to know your location in relation to the environment or to know where other objects are in relation to you."
+  },
+  {
+    "element_id": "1.A.1.f.2",
+    "name": "Visualization",
+    "description": "The ability to imagine how something will look after it is moved around or when its parts are moved or rearranged."
+  },
+  {
+    "element_id": "1.A.1.g",
+    "name": "Attentiveness",
+    "description": "Abilities related to application of attention"
+  },
+  {
+    "element_id": "1.A.1.g.1",
+    "name": "Selective Attention",
+    "description": "The ability to concentrate on a task over a period of time without being distracted."
+  },
+  {
+    "element_id": "1.A.1.g.2",
+    "name": "Time Sharing",
+    "description": "The ability to shift back and forth between two or more activities or sources of information (such as speech, sounds, touch, or other sources)."
+  },
+  {
+    "element_id": "1.A.2",
+    "name": "Psychomotor Abilities",
+    "description": "Abilities that influence the capacity to manipulate and control objects"
+  },
+  {
+    "element_id": "1.A.2.a",
+    "name": "Fine Manipulative Abilities",
+    "description": "Abilities related to the manipulation of objects"
+  },
+  {
+    "element_id": "1.A.2.a.1",
+    "name": "Arm-Hand Steadiness",
+    "description": "The ability to keep your hand and arm steady while moving your arm or while holding your arm and hand in one position."
+  },
+  {
+    "element_id": "1.A.2.a.2",
+    "name": "Manual Dexterity",
+    "description": "The ability to quickly move your hand, your hand together with your arm, or your two hands to grasp, manipulate, or assemble objects."
+  },
+  {
+    "element_id": "1.A.2.a.3",
+    "name": "Finger Dexterity",
+    "description": "The ability to make precisely coordinated movements of the fingers of one or both hands to grasp, manipulate, or assemble very small objects."
+  },
+  {
+    "element_id": "1.A.2.b",
+    "name": "Control Movement Abilities",
+    "description": "Abilities related to the control and manipulation of objects in time and space"
+  },
+  {
+    "element_id": "1.A.2.b.1",
+    "name": "Control Precision",
+    "description": "The ability to quickly and repeatedly adjust the controls of a machine or a vehicle to exact positions."
+  },
+  {
+    "element_id": "1.A.2.b.2",
+    "name": "Multilimb Coordination",
+    "description": "The ability to coordinate two or more limbs (for example, two arms, two legs, or one leg and one arm) while sitting, standing, or lying down. It does not involve performing the activities while the whole body is in motion."
+  },
+  {
+    "element_id": "1.A.2.b.3",
+    "name": "Response Orientation",
+    "description": "The ability to choose quickly between two or more movements in response to two or more different signals (lights, sounds, pictures). It includes the speed with which the correct response is started with the hand, foot, or other body part."
+  },
+  {
+    "element_id": "1.A.2.b.4",
+    "name": "Rate Control",
+    "description": "The ability to time your movements or the movement of a piece of equipment in anticipation of changes in the speed and/or direction of a moving object or scene."
+  },
+  {
+    "element_id": "1.A.2.c",
+    "name": "Reaction Time and Speed Abilities",
+    "description": "Abilities related to speed of manipulation of objects"
+  },
+  {
+    "element_id": "1.A.2.c.1",
+    "name": "Reaction Time",
+    "description": "The ability to quickly respond (with the hand, finger, or foot) to a signal (sound, light, picture) when it appears."
+  },
+  {
+    "element_id": "1.A.2.c.2",
+    "name": "Wrist-Finger Speed",
+    "description": "The ability to make fast, simple, repeated movements of the fingers, hands, and wrists."
+  },
+  {
+    "element_id": "1.A.2.c.3",
+    "name": "Speed of Limb Movement",
+    "description": "The ability to quickly move the arms and legs."
+  },
+  {
+    "element_id": "1.A.3",
+    "name": "Physical Abilities",
+    "description": "Abilities that influence strength, endurance, flexibility, balance and coordination"
+  },
+  {
+    "element_id": "1.A.3.a",
+    "name": "Physical Strength Abilities",
+    "description": "Abilities related to the capacity to exert force"
+  },
+  {
+    "element_id": "1.A.3.a.1",
+    "name": "Static Strength",
+    "description": "The ability to exert maximum muscle force to lift, push, pull, or carry objects."
+  },
+  {
+    "element_id": "1.A.3.a.2",
+    "name": "Explosive Strength",
+    "description": "The ability to use short bursts of muscle force to propel oneself (as in jumping or sprinting), or to throw an object."
+  },
+  {
+    "element_id": "1.A.3.a.3",
+    "name": "Dynamic Strength",
+    "description": "The ability to exert muscle force repeatedly or continuously over time. This involves muscular endurance and resistance to muscle fatigue."
+  },
+  {
+    "element_id": "1.A.3.a.4",
+    "name": "Trunk Strength",
+    "description": "The ability to use your abdominal and lower back muscles to support part of the body repeatedly or continuously over time without \"giving out\" or fatiguing."
+  },
+  {
+    "element_id": "1.A.3.b",
+    "name": "Endurance",
+    "description": "The ability to exert oneself physically over long periods without getting out of breath"
+  },
+  {
+    "element_id": "1.A.3.b.1",
+    "name": "Stamina",
+    "description": "The ability to exert yourself physically over long periods of time without getting winded or out of breath."
+  },
+  {
+    "element_id": "1.A.3.c",
+    "name": "Flexibility, Balance, and Coordination",
+    "description": "Abilities related to the control of gross body movements"
+  },
+  {
+    "element_id": "1.A.3.c.1",
+    "name": "Extent Flexibility",
+    "description": "The ability to bend, stretch, twist, or reach with your body, arms, and/or legs."
+  },
+  {
+    "element_id": "1.A.3.c.2",
+    "name": "Dynamic Flexibility",
+    "description": "The ability to quickly and repeatedly bend, stretch, twist, or reach out with your body, arms, and/or legs."
+  },
+  {
+    "element_id": "1.A.3.c.3",
+    "name": "Gross Body Coordination",
+    "description": "The ability to coordinate the movement of your arms, legs, and torso together when the whole body is in motion."
+  },
+  {
+    "element_id": "1.A.3.c.4",
+    "name": "Gross Body Equilibrium",
+    "description": "The ability to keep or regain your body balance or stay upright when in an unstable position."
+  },
+  {
+    "element_id": "1.A.4",
+    "name": "Sensory Abilities",
+    "description": "Abilities that influence visual, auditory and speech perception"
+  },
+  {
+    "element_id": "1.A.4.a",
+    "name": "Visual Abilities",
+    "description": "Abilities related to visual sensory input"
+  },
+  {
+    "element_id": "1.A.4.a.1",
+    "name": "Near Vision",
+    "description": "The ability to see details at close range (within a few feet of the observer)."
+  },
+  {
+    "element_id": "1.A.4.a.2",
+    "name": "Far Vision",
+    "description": "The ability to see details at a distance."
+  },
+  {
+    "element_id": "1.A.4.a.3",
+    "name": "Visual Color Discrimination",
+    "description": "The ability to match or detect differences between colors, including shades of color and brightness."
+  },
+  {
+    "element_id": "1.A.4.a.4",
+    "name": "Night Vision",
+    "description": "The ability to see under low-light conditions."
+  },
+  {
+    "element_id": "1.A.4.a.5",
+    "name": "Peripheral Vision",
+    "description": "The ability to see objects or movement of objects to one's side when the eyes are looking ahead."
+  },
+  {
+    "element_id": "1.A.4.a.6",
+    "name": "Depth Perception",
+    "description": "The ability to judge which of several objects is closer or farther away from you, or to judge the distance between you and an object."
+  },
+  {
+    "element_id": "1.A.4.a.7",
+    "name": "Glare Sensitivity",
+    "description": "The ability to see objects in the presence of a glare or bright lighting."
+  },
+  {
+    "element_id": "1.A.4.b",
+    "name": "Auditory and Speech Abilities",
+    "description": "Abilities related to auditory and oral input"
+  },
+  {
+    "element_id": "1.A.4.b.1",
+    "name": "Hearing Sensitivity",
+    "description": "The ability to detect or tell the differences between sounds that vary in pitch and loudness."
+  },
+  {
+    "element_id": "1.A.4.b.2",
+    "name": "Auditory Attention",
+    "description": "The ability to focus on a single source of sound in the presence of other distracting sounds."
+  },
+  {
+    "element_id": "1.A.4.b.3",
+    "name": "Sound Localization",
+    "description": "The ability to tell the direction from which a sound originated."
+  },
+  {
+    "element_id": "1.A.4.b.4",
+    "name": "Speech Recognition",
+    "description": "The ability to identify and understand the speech of another person."
+  },
+  {
+    "element_id": "1.A.4.b.5",
+    "name": "Speech Clarity",
+    "description": "The ability to speak clearly so others can understand you."
+  },
+  {
+    "element_id": "1.B",
+    "name": "Interests and Work Values",
+    "description": "Preferences for work environments and outcomes"
+  },
+  {
+    "element_id": "1.B.1",
+    "name": "General Occupational Interests",
+    "description": "Preferences for work environments. Occupational Interest Profiles (OIPs) are compatible with Holland's (1997) model of personality types and work environments. Six interest categories are used to describe the work environment of occupations: Realistic, Investigative, Artistic, Social, Enterprising, and Conventional. An OIP consists of six numerical scores indicating how descriptive and characteristic each work environment (or interest area) is for an O*NET-SOC occupation. In addition, a high-point profile has been assigned indicating which interests are most characteristic of an O*NET-SOC occupation. A high-point profile consists of one to three interest codes, depending on how many interest categories meet a minimum degree of descriptiveness for the O*NET-SOC occupation."
+  },
+  {
+    "element_id": "1.B.1.a",
+    "name": "Realistic",
+    "description": "Work involves designing, building, or repairing of equipment, materials, or structures, engaging in physical activity, or working outdoors. Realistic occupations are often associated with engineering, mechanics and electronics, construction, woodworking, transportation, machine operation, agriculture, animal services, physical or manual labor, athletics, or protective services."
+  },
+  {
+    "element_id": "1.B.1.b",
+    "name": "Investigative",
+    "description": "Work involves studying and researching non-living objects, living organisms, disease or other forms of impairment, or human behavior. Investigative occupations are often associated with physical, life, medical, or social sciences, and can be found in the fields of humanities, mathematics/statistics, information technology, or health care service."
+  },
+  {
+    "element_id": "1.B.1.c",
+    "name": "Artistic",
+    "description": "Work involves creating original visual artwork, performances, written works, food, or music for a variety of media, or applying artistic principles to the design of various objects and materials. Artistic occupations are often associated with visual arts, applied arts and design, performing arts, music, creative writing, media, or culinary art."
+  },
+  {
+    "element_id": "1.B.1.d",
+    "name": "Social",
+    "description": "Work involves helping, teaching, advising, assisting, or providing service to others. Social occupations are often associated with social, health care, personal service, teaching/education, or religious activities."
+  },
+  {
+    "element_id": "1.B.1.e",
+    "name": "Enterprising",
+    "description": "Work involves managing, negotiating, marketing, or selling, typically in a business setting, or leading or advising people in political and legal situations. Enterprising occupations are often associated with business initiatives, sales, marketing/advertising, finance, management/administration, professional advising, public speaking, politics, or law."
+  },
+  {
+    "element_id": "1.B.1.f",
+    "name": "Conventional",
+    "description": "Work involves following procedures and regulations to organize information or data, typically in a business setting. Conventional occupations are often associated with office work, accounting, mathematics/statistics, information technology, finance, or human resources."
+  },
+  {
+    "element_id": "1.B.1.g",
+    "name": "First Interest High-Point",
+    "description": "Primary-Rank Descriptiveness"
+  },
+  {
+    "element_id": "1.B.1.h",
+    "name": "Second Interest High-Point",
+    "description": "Secondary-Cutoff/Rank Descriptiveness"
+  },
+  {
+    "element_id": "1.B.1.i",
+    "name": "Third Interest High-Point",
+    "description": "Tertiary-Cutoff/Rank Descriptiveness"
+  },
+  {
+    "element_id": "1.B.2",
+    "name": "Work Values",
+    "description": "Occupational Reinforcer Patterns (ORPs) indicate which work values and needs are likely to be reinforced or satisfied by a particular O*NET-SOC occupation. The use of work values to describe occupations is based on the Theory of Work Adjustment (TWA) developed during the Work Adjustment Project at the University of Minnesota under Research Grants from the U.S. Department of Health, Education and Welfare (Dawis, R.V., England, G.W., & Lofquist, L.H., 1964; Dawis, R.V., & Lofquist, L.H., 1984). This theory proposes that job satisfaction is directly related to the degree to which a person's values and corresponding needs are satisfied by his or her work environment. The TWA identifies six work values each with a corresponding set of needs."
+  },
+  {
+    "element_id": "1.B.2.a",
+    "name": "Achievement",
+    "description": "Occupations that satisfy this work value are results oriented and allow employees to use their strongest abilities, giving them a feeling of accomplishment. Corresponding needs are Ability Utilization and Achievement."
+  },
+  {
+    "element_id": "1.B.2.a.1",
+    "name": "Ability Utilization",
+    "description": "Workers on this job make use of their individual abilities."
+  },
+  {
+    "element_id": "1.B.2.a.2",
+    "name": "Achievement",
+    "description": "Workers on this job get a feeling of accomplishment."
+  },
+  {
+    "element_id": "1.B.2.b",
+    "name": "Working Conditions",
+    "description": "Occupations that satisfy this work value offer job security and good working conditions. Corresponding needs are Activity, Compensation, Independence, Security, Variety and Working Conditions."
+  },
+  {
+    "element_id": "1.B.2.b.1",
+    "name": "Activity",
+    "description": "Workers on this job are busy all the time."
+  },
+  {
+    "element_id": "1.B.2.b.2",
+    "name": "Independence",
+    "description": "Workers on this job do their work alone."
+  },
+  {
+    "element_id": "1.B.2.b.3",
+    "name": "Variety",
+    "description": "Workers on this job have something different to do every day."
+  },
+  {
+    "element_id": "1.B.2.b.4",
+    "name": "Compensation",
+    "description": "Workers on this job are paid well in comparison with other workers."
+  },
+  {
+    "element_id": "1.B.2.b.5",
+    "name": "Security",
+    "description": "Workers on this job have steady employment."
+  },
+  {
+    "element_id": "1.B.2.b.6",
+    "name": "Working Conditions",
+    "description": "Workers on this job have good working conditions."
+  },
+  {
+    "element_id": "1.B.2.c",
+    "name": "Recognition",
+    "description": "Occupations that satisfy this work value offer advancement, potential for leadership, and are often considered prestigious. Corresponding needs are Advancement, Authority, Recognition and Social Status."
+  },
+  {
+    "element_id": "1.B.2.c.1",
+    "name": "Advancement",
+    "description": "Workers on this job have opportunities for advancement."
+  },
+  {
+    "element_id": "1.B.2.c.2",
+    "name": "Recognition",
+    "description": "Workers on this job receive recognition for the work they do."
+  },
+  {
+    "element_id": "1.B.2.c.3",
+    "name": "Authority",
+    "description": "Workers on this job give directions and instructions to others."
+  },
+  {
+    "element_id": "1.B.2.c.4",
+    "name": "Social Status",
+    "description": "Workers on this job are looked up to by others in their company and their community."
+  },
+  {
+    "element_id": "1.B.2.d",
+    "name": "Relationships",
+    "description": "Occupations that satisfy this work value allow employees to provide service to others and work with co-workers in a friendly non-competitive environment. Corresponding needs are Co-workers, Moral Values and Social Service."
+  },
+  {
+    "element_id": "1.B.2.d.1",
+    "name": "Co-workers",
+    "description": "Workers on this job have co-workers who are easy to get along with."
+  },
+  {
+    "element_id": "1.B.2.d.2",
+    "name": "Social Service",
+    "description": "Workers on this job have work where they do things for other people."
+  },
+  {
+    "element_id": "1.B.2.d.3",
+    "name": "Moral Values",
+    "description": "Workers on this job are never pressured to do things that go against their sense of right and wrong."
+  },
+  {
+    "element_id": "1.B.2.e",
+    "name": "Support",
+    "description": "Occupations that satisfy this work value offer supportive management that stands behind employees. Corresponding needs are Company Policies, Supervision: Human Relations and Supervision: Technical."
+  },
+  {
+    "element_id": "1.B.2.e.1",
+    "name": "Company Policies and Practices",
+    "description": "Workers on this job are treated fairly by the company."
+  },
+  {
+    "element_id": "1.B.2.e.2",
+    "name": "Supervision, Human Relations",
+    "description": "Workers on this job have supervisors who back up their workers with management."
+  },
+  {
+    "element_id": "1.B.2.e.3",
+    "name": "Supervision, Technical",
+    "description": "Workers on this job have supervisors who train their workers well."
+  },
+  {
+    "element_id": "1.B.2.f",
+    "name": "Independence",
+    "description": "Occupations that satisfy this work value allow employees to work on their own and make decisions. Corresponding needs are Creativity, Responsibility and Autonomy."
+  },
+  {
+    "element_id": "1.B.2.f.1",
+    "name": "Creativity",
+    "description": "Workers on this job try out their own ideas."
+  },
+  {
+    "element_id": "1.B.2.f.2",
+    "name": "Responsibility",
+    "description": "Workers on this job make decisions on their own."
+  },
+  {
+    "element_id": "1.B.2.f.3",
+    "name": "Autonomy",
+    "description": "Workers on this job plan their work with little supervision."
+  },
+  {
+    "element_id": "1.B.2.g",
+    "name": "First Work Value High-Point",
+    "description": "Primary-Rank Descriptiveness"
+  },
+  {
+    "element_id": "1.B.2.h",
+    "name": "Second Work Value High-Point",
+    "description": "Secondary-Cutoff/Rank Descriptiveness"
+  },
+  {
+    "element_id": "1.B.2.i",
+    "name": "Third Work Value High-Point",
+    "description": "Tertiary-Cutoff/Rank Descriptiveness"
+  },
+  {
+    "element_id": "1.B.3",
+    "name": "Basic Occupational Interests",
+    "description": "Specific, homogeneous facets of interests that group together work activities that share similar properties and represent the same abstract object."
+  },
+  {
+    "element_id": "1.B.3.a",
+    "name": "Mechanics/Electronics",
+    "description": "Work involves maintaining and repairing of machinery, such as automotive engines, electronic equipment, computers, and communication systems."
+  },
+  {
+    "element_id": "1.B.3.b",
+    "name": "Construction/Woodwork",
+    "description": "Work involves constructing, installing, or repairing structures and fixtures made of wood."
+  },
+  {
+    "element_id": "1.B.3.c",
+    "name": "Transportation/Machine Operation",
+    "description": "Work involves driving vehicles, such as vans, trucks, trains, and buses to transport people or materials. Work can also involve operating heavy equipment, such as cranes, forklifts, bulldozers, and backhoes to move materials or earth."
+  },
+  {
+    "element_id": "1.B.3.d",
+    "name": "Physical/Manual Labor",
+    "description": "Work involves manually unloading and moving freight, stock, luggage, or other materials, or performing other physical labor."
+  },
+  {
+    "element_id": "1.B.3.e",
+    "name": "Protective Service",
+    "description": "Work involves maintaining order and protecting life and property by conducting investigations and enforcing laws and regulations to prevent or solve crimes."
+  },
+  {
+    "element_id": "1.B.3.f",
+    "name": "Agriculture",
+    "description": "Work involves planting, cultivating, and harvesting crops, plants, or trees, or raising farm animals. Work can also involve preparing plant and animal products for distribution to consumers, or protecting natural resources to maximize their use in farming."
+  },
+  {
+    "element_id": "1.B.3.g",
+    "name": "Nature/Outdoors",
+    "description": "Work involves planning, restoring, and conserving natural areas and wildlife habitats."
+  },
+  {
+    "element_id": "1.B.3.h",
+    "name": "Animal Service",
+    "description": "Work involves feeding, grooming, exercising, or otherwise providing care to promote and maintain the well-being of pets and other animals in settings such as kennels, animal shelters, and zoos."
+  },
+  {
+    "element_id": "1.B.3.i",
+    "name": "Athletics",
+    "description": "Work involves training, practicing, or competing in athletic events, or supporting those participating in athletics through coaching, training, or officiating."
+  },
+  {
+    "element_id": "1.B.3.j",
+    "name": "Engineering",
+    "description": "Work involves applying science and technology to the design, building, testing, and use of electrical and electronic components, mechanical devices and machines, automotive, marine, and aerospace equipment and vehicles, materials, or structures."
+  },
+  {
+    "element_id": "1.B.3.k",
+    "name": "Physical Science",
+    "description": "Work involves studying and researching non-living objects, materials, and phenomena through scientific disciplines such as physics, chemistry, astronomy, meteorology, or geology."
+  },
+  {
+    "element_id": "1.B.3.l",
+    "name": "Life Science",
+    "description": "Work involves studying and researching living organisms through scientific disciplines such as biology, botany, zoology, microbiology, physiology, biochemistry, or zoology."
+  },
+  {
+    "element_id": "1.B.3.m",
+    "name": "Medical Science",
+    "description": "Work involves studying and researching the causes, nature, effects, and treatments of disease or other forms of impairment or illness."
+  },
+  {
+    "element_id": "1.B.3.n",
+    "name": "Social Science",
+    "description": "Work involves studying and researching human behavior, society, politics, and social relationships through scientific disciplines such as psychology, sociology, economics, or political science."
+  },
+  {
+    "element_id": "1.B.3.o",
+    "name": "Humanities",
+    "description": "Work involves studying and researching aspects of human history, culture, and language through disciplines such as history, philosophy, the language arts, or area/ethnic studies."
+  },
+  {
+    "element_id": "1.B.3.p",
+    "name": "Mathematics/Statistics",
+    "description": "Work involves developing and applying mathematics and statistical theory and methods."
+  },
+  {
+    "element_id": "1.B.3.q",
+    "name": "Information Technology",
+    "description": "Work involves designing, developing, testing, and maintaining computer software, hardware, networks, and systems."
+  },
+  {
+    "element_id": "1.B.3.r",
+    "name": "Visual Arts",
+    "description": "Work involves creating original visual artwork for a variety of media and purposes using various techniques and software."
+  },
+  {
+    "element_id": "1.B.3.s",
+    "name": "Applied Arts and Design",
+    "description": "Work involves applying artistic principles to the design and creation of various objects and materials."
+  },
+  {
+    "element_id": "1.B.3.t",
+    "name": "Performing Arts",
+    "description": "Work involves acting as a performer in dance, comedy, or dramatic productions, choreographing of dance performances, or producing of live or recorded entertainment."
+  },
+  {
+    "element_id": "1.B.3.u",
+    "name": "Music",
+    "description": "Work involves conducting, composing, or playing music or singing."
+  },
+  {
+    "element_id": "1.B.3.v",
+    "name": "Creative Writing",
+    "description": "Work involves developing creative written works, such as novels, scripts, song lyrics, poetry, stories, or advertisements."
+  },
+  {
+    "element_id": "1.B.3.w",
+    "name": "Media",
+    "description": "Work involves producing, developing, writing, directing, or presenting information through print, radio, television, or digital media."
+  },
+  {
+    "element_id": "1.B.3.x",
+    "name": "Culinary Art",
+    "description": "Work involves preparing, cooking, and presenting food in a distinctive style usually associated with a specific culture or region."
+  },
+  {
+    "element_id": "1.B.3.y",
+    "name": "Teaching/Education",
+    "description": "Work involves teaching through lectures, discussions, and demonstrations in one or more subjects."
+  },
+  {
+    "element_id": "1.B.3.z",
+    "name": "Social Service",
+    "description": "Work involves providing social services and assistance to improve the well-being and social and psychological functioning of children and adults."
+  },
+  {
+    "element_id": "1.B.3.aa",
+    "name": "Health Care Service",
+    "description": "Work involves providing health care services to individuals to include the diagnosis, prevention, or treatment of diseases and other forms of illness or impairment."
+  },
+  {
+    "element_id": "1.B.3.ab",
+    "name": "Religious Activities",
+    "description": "Work involves conducting religious worship, leading a church or other religious group, and offering moral guidance associated with beliefs and practices of a religious faith."
+  },
+  {
+    "element_id": "1.B.3.ac",
+    "name": "Personal Service",
+    "description": "Work involves providing personal services to individuals in need of non-medical assistance such as helping arrange or plan for travel, meals, or events."
+  },
+  {
+    "element_id": "1.B.3.ad",
+    "name": "Professional Advising",
+    "description": "Work involves providing expert advice, coaching, and counseling on topics such as careers, educational opportunities, and educational and professional development."
+  },
+  {
+    "element_id": "1.B.3.ae",
+    "name": "Business Initiatives",
+    "description": "Work involves creating strategic plans or taking actions to expand an organization's business or market share."
+  },
+  {
+    "element_id": "1.B.3.af",
+    "name": "Sales",
+    "description": "Work involves selling goods or services."
+  },
+  {
+    "element_id": "1.B.3.ag",
+    "name": "Marketing/Advertising",
+    "description": "Work involves promoting or creating a public image for products, services, or organizations to attract interest, engagement, or sales."
+  },
+  {
+    "element_id": "1.B.3.ah",
+    "name": "Finance",
+    "description": "Work involves directing and managing financial activities, such as planning and investments for an individual or organization to generate income."
+  },
+  {
+    "element_id": "1.B.3.ai",
+    "name": "Accounting",
+    "description": "Work involves examining, analyzing, and interpreting accounting records for financial statements, or maintaining, auditing, or evaluating records and accounts."
+  },
+  {
+    "element_id": "1.B.3.aj",
+    "name": "Human Resources",
+    "description": "Work involves recruiting, selecting, and training job applicants, maintaining employee personnel records, administering compensation and employee-benefit programs, and conducting employee performance reviews."
+  },
+  {
+    "element_id": "1.B.3.ak",
+    "name": "Office Work",
+    "description": "Work involves clerical and administrative tasks for an organization such as answering phones, bookkeeping, updating records, scheduling appointments or meetings, and editing of documents and files."
+  },
+  {
+    "element_id": "1.B.3.al",
+    "name": "Management/Administration",
+    "description": "Work involves planning, directing, or coordinating the daily operations of an organization, and overseeing personnel, business, or administrative services."
+  },
+  {
+    "element_id": "1.B.3.am",
+    "name": "Public Speaking",
+    "description": "Work involves speaking before an audience to educate, entertain, or influence the listeners."
+  },
+  {
+    "element_id": "1.B.3.an",
+    "name": "Politics",
+    "description": "Work involves engaging in political activities to influence government policy."
+  },
+  {
+    "element_id": "1.B.3.ao",
+    "name": "Law",
+    "description": "Work involves studying and applying legal knowledge."
+  },
+  {
+    "element_id": "1.D",
+    "name": "Work Styles",
+    "description": "Personality tendencies exhibited at work, which can affect how well someone performs a job."
+  },
+  {
+    "element_id": "1.D.1",
+    "name": "Proactive and Growth Oriented",
+    "description": "A tendency to proactively pursue excellence through setting high standards, engaging in continuous learning, and persisting and adapting in the face of challenges and uncertainty at work."
+  },
+  {
+    "element_id": "1.D.1.a",
+    "name": "Innovation",
+    "description": "A tendency to be inventive, to be imaginative, and to adopt new perspectives on ways to accomplish work."
+  },
+  {
+    "element_id": "1.D.1.b",
+    "name": "Achievement Orientation",
+    "description": "A tendency to establish and maintain personally challenging work-related goals, set high work-related standards, and exert high effort toward meeting those goals and standards."
+  },
+  {
+    "element_id": "1.D.1.c",
+    "name": "Intellectual Curiosity",
+    "description": "A tendency to seek out and acquire new work-related knowledge and obtain a deep understanding of work-related subjects."
+  },
+  {
+    "element_id": "1.D.1.d",
+    "name": "Tolerance for Ambiguity",
+    "description": "A tendency to be comfortable with ambiguity and uncertainty at work."
+  },
+  {
+    "element_id": "1.D.1.e",
+    "name": "Initiative",
+    "description": "A tendency to be proactive and take on extra responsibilities and tasks that may fall outside of one's required work role."
+  },
+  {
+    "element_id": "1.D.1.f",
+    "name": "Adaptability",
+    "description": "A tendency to be open to and comfortable with change, new experiences, or ideas at work."
+  },
+  {
+    "element_id": "1.D.1.g",
+    "name": "Self-Confidence",
+    "description": "A tendency to believe in one's work-related capabilities and ability to control one's work-related outcomes."
+  },
+  {
+    "element_id": "1.D.1.h",
+    "name": "Perseverance",
+    "description": "A tendency to exhibit determination and resolve to perform or complete tasks in the face of difficult circumstances or obstacles at work."
+  },
+  {
+    "element_id": "1.D.1.i",
+    "name": "Leadership Orientation",
+    "description": "A tendency to lead, take charge, offer opinions, and provide direction at work."
+  },
+  {
+    "element_id": "1.D.2",
+    "name": "Interpersonally Oriented",
+    "description": "A tendency to engage with others in a positive, supportive, selfless, and considerate manner at work."
+  },
+  {
+    "element_id": "1.D.2.a",
+    "name": "Humility",
+    "description": "A tendency to be modest and humble when interacting with others at work."
+  },
+  {
+    "element_id": "1.D.2.b",
+    "name": "Sincerity",
+    "description": "A tendency to be genuine and sincere in interactions with others at work, without concern for personal gain or self-interest."
+  },
+  {
+    "element_id": "1.D.2.c",
+    "name": "Empathy",
+    "description": "A tendency to show concern for others and be sensitive to others' needs and feelings at work."
+  },
+  {
+    "element_id": "1.D.2.d",
+    "name": "Cooperation",
+    "description": "A tendency to be pleasant, helpful, and willing to assist others at work."
+  },
+  {
+    "element_id": "1.D.2.e",
+    "name": "Optimism",
+    "description": "A tendency to exhibit a positive attitude and positive emotions at work, even under difficult circumstances."
+  },
+  {
+    "element_id": "1.D.2.f",
+    "name": "Social Orientation",
+    "description": "A tendency to seek out, enjoy, and be energized by social interaction at work."
+  },
+  {
+    "element_id": "1.D.3",
+    "name": "Conscientious and Rule Oriented",
+    "description": "A tendency to approach work with careful attention to quality, reliability, and ethical standards while maintaining organized and thorough work practices."
+  },
+  {
+    "element_id": "1.D.3.a",
+    "name": "Cautiousness",
+    "description": "A tendency to be careful, deliberate, and risk-avoidant when making work-related decisions or doing work."
+  },
+  {
+    "element_id": "1.D.3.b",
+    "name": "Attention to Detail",
+    "description": "A tendency to be detail-oriented, organized, and thorough in completing work."
+  },
+  {
+    "element_id": "1.D.3.c",
+    "name": "Dependability",
+    "description": "A tendency to be reliable, responsible, and consistent in meeting work-related obligations."
+  },
+  {
+    "element_id": "1.D.3.d",
+    "name": "Integrity",
+    "description": "A tendency to be honest and ethical at work."
+  },
+  {
+    "element_id": "1.D.4",
+    "name": "Emotionally Resilient",
+    "description": "A tendency to maintain emotional stability and cope effectively in the face of adversity, criticism, or high-pressure situations at work."
+  },
+  {
+    "element_id": "1.D.4.a",
+    "name": "Stress Tolerance",
+    "description": "A tendency to cope and function effectively in stressful situations at work."
+  },
+  {
+    "element_id": "1.D.4.b",
+    "name": "Self-Control",
+    "description": "A tendency to remain calm and composed and to manage emotions effectively in response to criticism or difficult situations at work."
+  },
+  {
+    "element_id": "2",
+    "name": "Worker Requirements",
+    "description": "Worker Requirements"
+  },
+  {
+    "element_id": "2.A",
+    "name": "Basic Skills",
+    "description": "Developed capacities that facilitate learning or the more rapid acquisition of knowledge"
+  },
+  {
+    "element_id": "2.A.1",
+    "name": "Content",
+    "description": "Background structures needed to work with and acquire more specific skills in a variety of different domains"
+  },
+  {
+    "element_id": "2.A.1.a",
+    "name": "Reading Comprehension",
+    "description": "Understanding written sentences and paragraphs in work-related documents."
+  },
+  {
+    "element_id": "2.A.1.b",
+    "name": "Active Listening",
+    "description": "Giving full attention to what other people are saying, taking time to understand the points being made, asking questions as appropriate, and not interrupting at inappropriate times."
+  },
+  {
+    "element_id": "2.A.1.c",
+    "name": "Writing",
+    "description": "Communicating effectively in writing as appropriate for the needs of the audience."
+  },
+  {
+    "element_id": "2.A.1.d",
+    "name": "Speaking",
+    "description": "Talking to others to convey information effectively."
+  },
+  {
+    "element_id": "2.A.1.e",
+    "name": "Mathematics",
+    "description": "Using mathematics to solve problems."
+  },
+  {
+    "element_id": "2.A.1.f",
+    "name": "Science",
+    "description": "Using scientific rules and methods to solve problems."
+  },
+  {
+    "element_id": "2.A.2",
+    "name": "Process",
+    "description": "Procedures that contribute to the more rapid acquisition of knowledge and skill across a variety of domains"
+  },
+  {
+    "element_id": "2.A.2.a",
+    "name": "Critical Thinking",
+    "description": "Using logic and reasoning to identify the strengths and weaknesses of alternative solutions, conclusions, or approaches to problems."
+  },
+  {
+    "element_id": "2.A.2.b",
+    "name": "Active Learning",
+    "description": "Understanding the implications of new information for both current and future problem-solving and decision-making."
+  },
+  {
+    "element_id": "2.A.2.c",
+    "name": "Learning Strategies",
+    "description": "Selecting and using training/instructional methods and procedures appropriate for the situation when learning or teaching new things."
+  },
+  {
+    "element_id": "2.A.2.d",
+    "name": "Monitoring",
+    "description": "Monitoring/Assessing performance of yourself, other individuals, or organizations to make improvements or take corrective action."
+  },
+  {
+    "element_id": "2.B",
+    "name": "Cross-Functional Skills",
+    "description": "Developed capacities that facilitate performance of activities that occur across jobs"
+  },
+  {
+    "element_id": "2.B.1",
+    "name": "Social Skills",
+    "description": "Developed capacities used to work with people to achieve goals"
+  },
+  {
+    "element_id": "2.B.1.a",
+    "name": "Social Perceptiveness",
+    "description": "Being aware of others' reactions and understanding why they react as they do."
+  },
+  {
+    "element_id": "2.B.1.b",
+    "name": "Coordination",
+    "description": "Adjusting actions in relation to others' actions."
+  },
+  {
+    "element_id": "2.B.1.c",
+    "name": "Persuasion",
+    "description": "Persuading others to change their minds or behavior."
+  },
+  {
+    "element_id": "2.B.1.d",
+    "name": "Negotiation",
+    "description": "Bringing others together and trying to reconcile differences."
+  },
+  {
+    "element_id": "2.B.1.e",
+    "name": "Instructing",
+    "description": "Teaching others how to do something."
+  },
+  {
+    "element_id": "2.B.1.f",
+    "name": "Service Orientation",
+    "description": "Actively looking for ways to help people."
+  },
+  {
+    "element_id": "2.B.2",
+    "name": "Complex Problem Solving Skills",
+    "description": "Developed capacities used to solve novel, ill-defined problems in complex, real-world settings"
+  },
+  {
+    "element_id": "2.B.2.i",
+    "name": "Complex Problem Solving",
+    "description": "Identifying complex problems and reviewing related information to develop and evaluate options and implement solutions."
+  },
+  {
+    "element_id": "2.B.3",
+    "name": "Technical Skills",
+    "description": "Developed capacities used to design, set-up, operate, and correct malfunctions involving application of machines or technological systems"
+  },
+  {
+    "element_id": "2.B.3.a",
+    "name": "Operations Analysis",
+    "description": "Analyzing needs and product requirements to create a design."
+  },
+  {
+    "element_id": "2.B.3.b",
+    "name": "Technology Design",
+    "description": "Generating or adapting equipment and technology to serve user needs."
+  },
+  {
+    "element_id": "2.B.3.c",
+    "name": "Equipment Selection",
+    "description": "Determining the kind of tools and equipment needed to do a job."
+  },
+  {
+    "element_id": "2.B.3.d",
+    "name": "Installation",
+    "description": "Installing equipment, machines, wiring, or programs to meet specifications."
+  },
+  {
+    "element_id": "2.B.3.e",
+    "name": "Programming",
+    "description": "Writing computer programs for various purposes."
+  },
+  {
+    "element_id": "2.B.3.g",
+    "name": "Operations Monitoring",
+    "description": "Watching gauges, dials, or other indicators to make sure a machine is working properly."
+  },
+  {
+    "element_id": "2.B.3.h",
+    "name": "Operation and Control",
+    "description": "Controlling operations of equipment or systems."
+  },
+  {
+    "element_id": "2.B.3.j",
+    "name": "Equipment Maintenance",
+    "description": "Performing routine maintenance on equipment and determining when and what kind of maintenance is needed."
+  },
+  {
+    "element_id": "2.B.3.k",
+    "name": "Troubleshooting",
+    "description": "Determining causes of operating errors and deciding what to do about it."
+  },
+  {
+    "element_id": "2.B.3.l",
+    "name": "Repairing",
+    "description": "Repairing machines or systems using the needed tools."
+  },
+  {
+    "element_id": "2.B.3.m",
+    "name": "Quality Control Analysis",
+    "description": "Conducting tests and inspections of products, services, or processes to evaluate quality or performance."
+  },
+  {
+    "element_id": "2.B.4",
+    "name": "Systems Skills",
+    "description": "Developed capacities used to understand, monitor, and improve socio-technical systems"
+  },
+  {
+    "element_id": "2.B.4.e",
+    "name": "Judgment and Decision Making",
+    "description": "Considering the relative costs and benefits of potential actions to choose the most appropriate one."
+  },
+  {
+    "element_id": "2.B.4.g",
+    "name": "Systems Analysis",
+    "description": "Determining how a system should work and how changes in conditions, operations, and the environment will affect outcomes."
+  },
+  {
+    "element_id": "2.B.4.h",
+    "name": "Systems Evaluation",
+    "description": "Identifying measures or indicators of system performance and the actions needed to improve or correct performance, relative to the goals of the system."
+  },
+  {
+    "element_id": "2.B.5",
+    "name": "Resource Management Skills",
+    "description": "Developed capacities used to allocate resources efficiently"
+  },
+  {
+    "element_id": "2.B.5.a",
+    "name": "Time Management",
+    "description": "Managing one's own time and the time of others."
+  },
+  {
+    "element_id": "2.B.5.b",
+    "name": "Management of Financial Resources",
+    "description": "Determining how money will be spent to get the work done, and accounting for these expenditures."
+  },
+  {
+    "element_id": "2.B.5.c",
+    "name": "Management of Material Resources",
+    "description": "Obtaining and seeing to the appropriate use of equipment, facilities, and materials needed to do certain work."
+  },
+  {
+    "element_id": "2.B.5.d",
+    "name": "Management of Personnel Resources",
+    "description": "Motivating, developing, and directing people as they work, identifying the best people for the job."
+  },
+  {
+    "element_id": "2.C",
+    "name": "Knowledge",
+    "description": "Organized sets of principles and facts applying in general domains"
+  },
+  {
+    "element_id": "2.C.1",
+    "name": "Business and Management",
+    "description": "Knowledge of principles and facts related to business administration and accounting, human and material resource management in organizations, sales and marketing, economics, and office information and organizing systems"
+  },
+  {
+    "element_id": "2.C.1.a",
+    "name": "Administration and Management",
+    "description": "Knowledge of business and management principles involved in strategic planning, resource allocation, human resources modeling, leadership technique, production methods, and coordination of people and resources."
+  },
+  {
+    "element_id": "2.C.1.b",
+    "name": "Administrative",
+    "description": "Knowledge of administrative and office procedures and systems such as word processing, managing files and records, stenography and transcription, designing forms, and workplace terminology."
+  },
+  {
+    "element_id": "2.C.1.c",
+    "name": "Economics and Accounting",
+    "description": "Knowledge of economic and accounting principles and practices, the financial markets, banking, and the analysis and reporting of financial data."
+  },
+  {
+    "element_id": "2.C.1.d",
+    "name": "Sales and Marketing",
+    "description": "Knowledge of principles and methods for showing, promoting, and selling products or services. This includes marketing strategy and tactics, product demonstration, sales techniques, and sales control systems."
+  },
+  {
+    "element_id": "2.C.1.e",
+    "name": "Customer and Personal Service",
+    "description": "Knowledge of principles and processes for providing customer and personal services. This includes customer needs assessment, meeting quality standards for services, and evaluation of customer satisfaction."
+  },
+  {
+    "element_id": "2.C.1.f",
+    "name": "Personnel and Human Resources",
+    "description": "Knowledge of principles and procedures for personnel recruitment, selection, training, compensation and benefits, labor relations and negotiation, and personnel information systems."
+  },
+  {
+    "element_id": "2.C.2",
+    "name": "Manufacturing and Production",
+    "description": "Knowledge of principles and facts related to the production, processing, storage, and distribution of manufactured and agricultural goods"
+  },
+  {
+    "element_id": "2.C.2.a",
+    "name": "Production and Processing",
+    "description": "Knowledge of raw materials, production processes, quality control, costs, and other techniques for maximizing the effective manufacture and distribution of goods."
+  },
+  {
+    "element_id": "2.C.2.b",
+    "name": "Food Production",
+    "description": "Knowledge of techniques and equipment for planting, growing, and harvesting food products (both plant and animal) for consumption, including storage/handling techniques."
+  },
+  {
+    "element_id": "2.C.3",
+    "name": "Engineering and Technology",
+    "description": "Knowledge of the design, development, and application of technology for specific purposes."
+  },
+  {
+    "element_id": "2.C.3.a",
+    "name": "Computers and Electronics",
+    "description": "Knowledge of circuit boards, processors, chips, electronic equipment, and computer hardware and software, including applications and programming."
+  },
+  {
+    "element_id": "2.C.3.b",
+    "name": "Engineering and Technology",
+    "description": "Knowledge of the practical application of engineering science and technology. This includes applying principles, techniques, procedures, and equipment to the design and production of various goods and services."
+  },
+  {
+    "element_id": "2.C.3.c",
+    "name": "Design",
+    "description": "Knowledge of design techniques, tools, and principles involved in production of precision technical plans, blueprints, drawings, and models."
+  },
+  {
+    "element_id": "2.C.3.d",
+    "name": "Building and Construction",
+    "description": "Knowledge of materials, methods, and the tools involved in the construction or repair of houses, buildings, or other structures such as highways and roads."
+  },
+  {
+    "element_id": "2.C.3.e",
+    "name": "Mechanical",
+    "description": "Knowledge of machines and tools, including their designs, uses, repair, and maintenance."
+  },
+  {
+    "element_id": "2.C.4",
+    "name": "Mathematics and Science",
+    "description": "Knowledge of the history, theories, methods, and applications of the physical, biological, social, mathematical, and geography"
+  },
+  {
+    "element_id": "2.C.4.a",
+    "name": "Mathematics",
+    "description": "Knowledge of arithmetic, algebra, geometry, calculus, statistics, and their applications."
+  },
+  {
+    "element_id": "2.C.4.b",
+    "name": "Physics",
+    "description": "Knowledge and prediction of physical principles, laws, their interrelationships, and applications to understanding fluid, material, and atmospheric dynamics, and mechanical, electrical, atomic and sub-atomic structures and processes."
+  },
+  {
+    "element_id": "2.C.4.c",
+    "name": "Chemistry",
+    "description": "Knowledge of the chemical composition, structure, and properties of substances and of the chemical processes and transformations that they undergo. This includes uses of chemicals and their interactions, danger signs, production techniques, and disposal methods."
+  },
+  {
+    "element_id": "2.C.4.d",
+    "name": "Biology",
+    "description": "Knowledge of plant and animal organisms, their tissues, cells, functions, interdependencies, and interactions with each other and the environment."
+  },
+  {
+    "element_id": "2.C.4.e",
+    "name": "Psychology",
+    "description": "Knowledge of human behavior and performance; individual differences in ability, personality, and interests; learning and motivation; psychological research methods; and the assessment and treatment of behavioral and affective disorders."
+  },
+  {
+    "element_id": "2.C.4.f",
+    "name": "Sociology and Anthropology",
+    "description": "Knowledge of group behavior and dynamics, societal trends and influences, human migrations, ethnicity, cultures, and their history and origins."
+  },
+  {
+    "element_id": "2.C.4.g",
+    "name": "Geography",
+    "description": "Knowledge of principles and methods for describing the features of land, sea, and air masses, including their physical characteristics, locations, interrelationships, and distribution of plant, animal, and human life."
+  },
+  {
+    "element_id": "2.C.5",
+    "name": "Health Services",
+    "description": "Knowledge of principles and facts regarding diagnosing, curing, and preventing disease, and improving and preserving physical and mental health and well-being"
+  },
+  {
+    "element_id": "2.C.5.a",
+    "name": "Medicine and Dentistry",
+    "description": "Knowledge of the information and techniques needed to diagnose and treat human injuries, diseases, and deformities. This includes symptoms, treatment alternatives, drug properties and interactions, and preventive health-care measures."
+  },
+  {
+    "element_id": "2.C.5.b",
+    "name": "Therapy and Counseling",
+    "description": "Knowledge of principles, methods, and procedures for diagnosis, treatment, and rehabilitation of physical and mental dysfunctions, and for career counseling and guidance."
+  },
+  {
+    "element_id": "2.C.6",
+    "name": "Education and Training",
+    "description": "Knowledge of principles and methods for curriculum and training design, teaching and instruction for individuals and groups, and the measurement of training effects."
+  },
+  {
+    "element_id": "2.C.7",
+    "name": "Arts and Humanities",
+    "description": "Knowledge of facts and principles related to the branches of learning concerned with human thought, language, and the arts."
+  },
+  {
+    "element_id": "2.C.7.a",
+    "name": "English Language",
+    "description": "Knowledge of the structure and content of the English language including the meaning and spelling of words, and rules of composition and grammar."
+  },
+  {
+    "element_id": "2.C.7.b",
+    "name": "Foreign Language",
+    "description": "Knowledge of the structure and content of a foreign (non-English) language including the meaning and spelling of words, rules of composition and grammar, and pronunciation."
+  },
+  {
+    "element_id": "2.C.7.c",
+    "name": "Fine Arts",
+    "description": "Knowledge of the theory and techniques required to compose, produce, and perform works of music, dance, visual arts, drama, and sculpture."
+  },
+  {
+    "element_id": "2.C.7.d",
+    "name": "History and Archeology",
+    "description": "Knowledge of historical events and their causes, indicators, and effects on civilizations and cultures."
+  },
+  {
+    "element_id": "2.C.7.e",
+    "name": "Philosophy and Theology",
+    "description": "Knowledge of different philosophical systems and religions. This includes their basic principles, values, ethics, ways of thinking, customs, practices, and their impact on human culture."
+  },
+  {
+    "element_id": "2.C.8",
+    "name": "Law and Public Safety",
+    "description": "Knowledge of regulations and methods for maintaining people and property free from danger, injury, or damage; the rules of public conduct established and enforced by legislation, and the political process establishing such rules."
+  },
+  {
+    "element_id": "2.C.8.a",
+    "name": "Public Safety and Security",
+    "description": "Knowledge of relevant equipment, policies, procedures, and strategies to promote effective local, state, or national security operations for the protection of people, data, property, and institutions."
+  },
+  {
+    "element_id": "2.C.8.b",
+    "name": "Law and Government",
+    "description": "Knowledge of laws, legal codes, court procedures, precedents, government regulations, executive orders, agency rules, and the democratic political process."
+  },
+  {
+    "element_id": "2.C.9",
+    "name": "Communications",
+    "description": "Knowledge of the science and art of delivering information"
+  },
+  {
+    "element_id": "2.C.9.a",
+    "name": "Telecommunications",
+    "description": "Knowledge of transmission, broadcasting, switching, control, and operation of telecommunications systems."
+  },
+  {
+    "element_id": "2.C.9.b",
+    "name": "Communications and Media",
+    "description": "Knowledge of media production, communication, and dissemination techniques and methods. This includes alternative ways to inform and entertain via written, oral, and visual media."
+  },
+  {
+    "element_id": "2.C.10",
+    "name": "Transportation",
+    "description": "Knowledge of principles and methods for moving people or goods by air, rail, sea, or road, including the relative costs and benefits."
+  },
+  {
+    "element_id": "2.D",
+    "name": "Education",
+    "description": "Prior educational experience required to perform in a job"
+  },
+  {
+    "element_id": "2.D.1",
+    "name": "Required Level of Education",
+    "description": "The level of education required to perform a job."
+  },
+  {
+    "element_id": "2.D.2",
+    "name": "Instructional Program Required",
+    "description": "The instructional program required for this job"
+  },
+  {
+    "element_id": "2.D.3",
+    "name": "Education Level in Specific Subjects",
+    "description": "The amount of education required in 15 subject areas to perform in a job. Subject areas cover most of the courses that occur in high school, junior college, college undergraduate degree programs, and other education and training programs"
+  },
+  {
+    "element_id": "2.D.3.a",
+    "name": "Technical Vocational",
+    "description": "Courses focus on non-business technical skills, such as Agriculture, Industrial Arts, Automobile and Shop, and Electronics"
+  },
+  {
+    "element_id": "2.D.3.b",
+    "name": "Business Vocational",
+    "description": "Courses focus on basic business skills, such as Word Processing, Filing, Bookkeeping/Basic Accounting"
+  },
+  {
+    "element_id": "2.D.3.c",
+    "name": "English/language Arts",
+    "description": "Courses focus on reading, interpretation, and writing, such as Literature, Composition, Journalism, and Creative Writing"
+  },
+  {
+    "element_id": "2.D.3.d",
+    "name": "Oral Communication",
+    "description": "Courses focus on oral communication and speech, such as Oral Communication, Speech, and Interpersonal Communication"
+  },
+  {
+    "element_id": "2.D.3.e",
+    "name": "Languages",
+    "description": "Courses focus on reading, writing, and/or speaking languages other than English, such as French, Chinese, German, Japanese, Latin, Russian, and Spanish"
+  },
+  {
+    "element_id": "2.D.3.f",
+    "name": "Basic Math",
+    "description": "Courses focus on basic and applied math, such as General Math and Business Math"
+  },
+  {
+    "element_id": "2.D.3.g",
+    "name": "Advanced Math",
+    "description": "Courses focus on advanced topics in math, such as Algebra, Geometry, Calculus, and Statistics"
+  },
+  {
+    "element_id": "2.D.3.h",
+    "name": "Physical Science",
+    "description": "Courses focus on the study of matter and/or energy, such as Physics, Chemistry, and Astronomy"
+  },
+  {
+    "element_id": "2.D.3.i",
+    "name": "Computer Science",
+    "description": "Courses focus on computers and their uses, such as Programming, Information Systems Management, and Software Applications"
+  },
+  {
+    "element_id": "2.D.3.j",
+    "name": "Biological Science",
+    "description": "Courses focus on the study of life and living beings, such as life science, biology, anatomy and physiology"
+  },
+  {
+    "element_id": "2.D.3.k",
+    "name": "Applied Science",
+    "description": "Courses focus on the application of science, such as Engineering, Health, and Medicine"
+  },
+  {
+    "element_id": "2.D.3.l",
+    "name": "Social Science",
+    "description": "Courses focus on the behavioral sciences, such as Social Studies, Economics, History, Psychology, and Sociology"
+  },
+  {
+    "element_id": "2.D.3.m",
+    "name": "Arts",
+    "description": "Courses focus on visual and performing arts, such as Arts and Crafts, Music, Painting, Sculpture, Theater, and Voice"
+  },
+  {
+    "element_id": "2.D.3.n",
+    "name": "Humanities",
+    "description": "Courses focus on cultural and philosophical aspects of humans, such as Minority Studies, Philosophy, and Religion"
+  },
+  {
+    "element_id": "2.D.3.o",
+    "name": "Physical Education",
+    "description": "Courses focus on physical fitness and sports, such as Aerobics, Jogging, Weight Lifting, and Specific Sports"
+  },
+  {
+    "element_id": "2.D.4",
+    "name": "Job-Related Professional Certification",
+    "description": "Certification: A credential awarded by a certification body based on an individual demonstrating through an examination process that he or she has acquired the designated knowledge, skills, and abilities to perform a specific job."
+  },
+  {
+    "element_id": "2.D.4.a",
+    "name": "Job-Related Professional Certification",
+    "description": "Possession of an occupational or industry certification to perform the job."
+  },
+  {
+    "element_id": "3",
+    "name": "Experience Requirements",
+    "description": "Experience Requirements"
+  },
+  {
+    "element_id": "3.A",
+    "name": "Experience and Training",
+    "description": "If someone were being hired to perform this job, how much of the following would be required?"
+  },
+  {
+    "element_id": "3.A.1",
+    "name": "Related Work Experience",
+    "description": "Amount of related work experience required to get hired for the job?"
+  },
+  {
+    "element_id": "3.A.2",
+    "name": "On-Site or In-Plant Training",
+    "description": "Amount of on-site or in-plant training (e.g., organized class room instruction) required to perform the job?"
+  },
+  {
+    "element_id": "3.A.3",
+    "name": "On-the-Job Training",
+    "description": "Amount of on the job training required to perform the job?"
+  },
+  {
+    "element_id": "3.A.4",
+    "name": "Apprenticeship",
+    "description": "Apprenticeship is a combination of on-the-job training and related instruction in which workers learn the practical and theoretical aspects of a highly skilled occupation. Apprenticeship programs can be sponsored by individual employers, joint employer and labor groups, and/or employer associations."
+  },
+  {
+    "element_id": "3.A.4.a",
+    "name": "Job-related Apprenticeship",
+    "description": "Completion of a job-related apprenticeship to perform the job."
+  },
+  {
+    "element_id": "3.B",
+    "name": "Basic Skills - Entry Requirement",
+    "description": "Entry requirement for developed capacities that facilitate learning or the more rapid acquisition of knowledge"
+  },
+  {
+    "element_id": "3.B.1",
+    "name": "Content - Entry Requirement",
+    "description": "Entry requirement for background structures needed to work with and acquire more specific skills in a variety of different domains"
+  },
+  {
+    "element_id": "3.B.1.a",
+    "name": "Reading Comprehension - Entry Requirement",
+    "description": "Entry requirement for understanding written sentences and paragraphs in work related documents"
+  },
+  {
+    "element_id": "3.B.1.b",
+    "name": "Active Listening - Entry Requirement",
+    "description": "Entry requirement for listening to what other people are saying and asking questions as appropriate"
+  },
+  {
+    "element_id": "3.B.1.c",
+    "name": "Writing - Entry Requirement",
+    "description": "Entry requirement for communicating effectively with others in writing as indicated by the needs of the audience"
+  },
+  {
+    "element_id": "3.B.1.d",
+    "name": "Speaking - Entry Requirement",
+    "description": "Entry requirement for talking to others to effectively convey information"
+  },
+  {
+    "element_id": "3.B.1.e",
+    "name": "Mathematics - Entry Requirement",
+    "description": "Entry requirement for using mathematics to solve problems"
+  },
+  {
+    "element_id": "3.B.1.f",
+    "name": "Science - Entry Requirement",
+    "description": "Entry requirement for using scientific methods to solve problems"
+  },
+  {
+    "element_id": "3.B.2",
+    "name": "Process - Entry Requirement",
+    "description": "Entry requirement for procedures that contribute to the more rapid acquisition of knowledge and skill across a variety of domains"
+  },
+  {
+    "element_id": "3.B.2.a",
+    "name": "Critical Thinking - Entry Requirement",
+    "description": "Entry requirement for using logic and analysis to identify the strengths and weaknesses in different approaches"
+  },
+  {
+    "element_id": "3.B.2.b",
+    "name": "Active Learning - Entry Requirement",
+    "description": "Entry requirement for working with new material or information to grasp its implications"
+  },
+  {
+    "element_id": "3.B.2.c",
+    "name": "Learning Strategies - Entry Requirement",
+    "description": "Entry requirement for using multiple approaches when learning or teaching new things"
+  },
+  {
+    "element_id": "3.B.2.d",
+    "name": "Monitoring - Entry Requirement",
+    "description": "Entry requirement for assessing how well one is doing when learning or doing something"
+  },
+  {
+    "element_id": "3.C",
+    "name": "Cross-Functional Skills - Entry Requirement",
+    "description": "Entry requirement for developed capacities that facilitate performance of activities that occur across jobs"
+  },
+  {
+    "element_id": "3.C.1",
+    "name": "Social Skills - Entry Requirement",
+    "description": "Entry requirement for developed capacities used to work with people to achieve goals"
+  },
+  {
+    "element_id": "3.C.1.a",
+    "name": "Social Perceptiveness - Entry Requirement",
+    "description": "Entry requirement for being aware of others' reactions and understanding why they react the way they do"
+  },
+  {
+    "element_id": "3.C.1.b",
+    "name": "Coordination - Entry Requirement",
+    "description": "Entry requirement for adjusting actions in relation to others' actions"
+  },
+  {
+    "element_id": "3.C.1.c",
+    "name": "Persuasion - Entry Requirement",
+    "description": "Entry requirement for persuading others to approach things differently"
+  },
+  {
+    "element_id": "3.C.1.d",
+    "name": "Negotiation - Entry Requirement",
+    "description": "Entry requirement for bring others together and trying to reconcile differences"
+  },
+  {
+    "element_id": "3.C.1.e",
+    "name": "Instructing - Entry Requirement",
+    "description": "Entry requirement for teaching others how to do something"
+  },
+  {
+    "element_id": "3.C.1.f",
+    "name": "Service Orientation - Entry Requirement",
+    "description": "Entry requirement for actively looking for ways to help people"
+  },
+  {
+    "element_id": "3.C.2",
+    "name": "Complex Problem Solving Skills - Entry Requirement",
+    "description": "Entry requirement for developed capacities used to solve novel, ill-defined problems in complex, real-world settings"
+  },
+  {
+    "element_id": "3.C.2.a",
+    "name": "Problem Identification - Entry Requirement",
+    "description": "Entry requirement for identifying the nature of problems"
+  },
+  {
+    "element_id": "3.C.2.b",
+    "name": "Information Gathering - Entry Requirement",
+    "description": "Entry requirement for knowing how to find information and identifying essential information"
+  },
+  {
+    "element_id": "3.C.2.c",
+    "name": "Information Organization - Entry Requirement",
+    "description": "Entry requirement for finding ways to structure or classify multiple pieces of information"
+  },
+  {
+    "element_id": "3.C.2.d",
+    "name": "Synthesis/Reorganization - Entry Requirement",
+    "description": "Entry requirement for reorganizing information to get a better approach to problems or tasks"
+  },
+  {
+    "element_id": "3.C.2.e",
+    "name": "Idea Generation - Entry Requirement",
+    "description": "Entry requirement for generating a number of different approaches to problems"
+  },
+  {
+    "element_id": "3.C.2.f",
+    "name": "Idea Evaluation - Entry Requirement",
+    "description": "Entry requirement for evaluating the likely success of an idea in relation to the demands of the situation"
+  },
+  {
+    "element_id": "3.C.2.g",
+    "name": "Implementation Planning - Entry Requirement",
+    "description": "Entry requirement for developing approaches for implementing an idea"
+  },
+  {
+    "element_id": "3.C.2.h",
+    "name": "Solution Appraisal - Entry Requirement",
+    "description": "Entry requirement for observing and evaluating the outcomes of a problem solution to identify lessons learned or redirect efforts"
+  },
+  {
+    "element_id": "3.C.3",
+    "name": "Technical Skills - Entry Requirement",
+    "description": "Entry requirement for developed capacities used to design, set-up, operate, and correct malfunctions involving application of machines or technological systems"
+  },
+  {
+    "element_id": "3.C.3.a",
+    "name": "Operations Analysis - Entry Requirement",
+    "description": "Entry requirement for analyzing needs and product requirements to create a design"
+  },
+  {
+    "element_id": "3.C.3.b",
+    "name": "Technology Design - Entry Requirement",
+    "description": "Entry requirement for generating or adapting equipment and technology to serve user needs"
+  },
+  {
+    "element_id": "3.C.3.c",
+    "name": "Equipment Selection - Entry Requirement",
+    "description": "Entry requirement for determining the kind of tools and equipment needed to do a job"
+  },
+  {
+    "element_id": "3.C.3.d",
+    "name": "Installation - Entry Requirement",
+    "description": "Entry requirement for installing equipment, machines, wiring, or programs to meet specifications"
+  },
+  {
+    "element_id": "3.C.3.e",
+    "name": "Programming - Entry Requirement",
+    "description": "Entry requirement for writing computer programs for various purposes"
+  },
+  {
+    "element_id": "3.C.3.f",
+    "name": "Testing - Entry Requirement",
+    "description": "Entry requirement for conducting tests to determine whether equipment, software, or procedures are operating as expected"
+  },
+  {
+    "element_id": "3.C.3.g",
+    "name": "Operation Monitoring - Entry Requirement",
+    "description": "Entry requirement for watching gauges, dials, or other indicators to make sure a machine is working properly"
+  },
+  {
+    "element_id": "3.C.3.h",
+    "name": "Operation and Control - Entry Requirement",
+    "description": "Entry requirement for controlling operations of equipment or systems"
+  },
+  {
+    "element_id": "3.C.3.i",
+    "name": "Product Inspection - Entry Requirement",
+    "description": "Entry requirement for inspecting and evaluating the quality of products"
+  },
+  {
+    "element_id": "3.C.3.j",
+    "name": "Equipment Maintenance - Entry Requirement",
+    "description": "Entry requirement for performing routine maintenance and determining when and what kind of maintenance is needed"
+  },
+  {
+    "element_id": "3.C.3.k",
+    "name": "Troubleshooting - Entry Requirement",
+    "description": "Entry requirement for determining what is causing an operating error and deciding what to do about it"
+  },
+  {
+    "element_id": "3.C.3.l",
+    "name": "Repairing - Entry Requirement",
+    "description": "Entry requirement for repairing machines or systems using the needed tools"
+  },
+  {
+    "element_id": "3.C.4",
+    "name": "Systems Skills - Entry Requirement",
+    "description": "Entry requirement for developed capacities used to understand, monitor, and improve socio-technical systems"
+  },
+  {
+    "element_id": "3.C.4.a",
+    "name": "Visioning - Entry Requirement",
+    "description": "Entry requirement for developing an image of how a system should work under ideal conditions"
+  },
+  {
+    "element_id": "3.C.4.b",
+    "name": "Systems Perception - Entry Requirement",
+    "description": "Entry requirement for determining when important changes have occurred in a system or are likely to occur"
+  },
+  {
+    "element_id": "3.C.4.c",
+    "name": "Identifying Downstream Consequences - Entry Requirement",
+    "description": "Entry requirement for determining the long-term outcomes of a change in operations"
+  },
+  {
+    "element_id": "3.C.4.d",
+    "name": "Identification of Key Causes - Entry Requirement",
+    "description": "Entry requirement for identifying the things that must be changed to achieve a goal"
+  },
+  {
+    "element_id": "3.C.4.e",
+    "name": "Judgment and Decision Making - Entry Requirement",
+    "description": "Entry requirement for weighing the relative costs and benefits of a potential action"
+  },
+  {
+    "element_id": "3.C.4.f",
+    "name": "System Evaluation - Entry Requirement",
+    "description": "Entry requirement for looking at many indicators of system performance, taking into account their accuracy"
+  },
+  {
+    "element_id": "3.C.5",
+    "name": "Resource Management Skills - Entry Requirement",
+    "description": "Entry requirement for developed capacities used to allocate resources efficiently"
+  },
+  {
+    "element_id": "3.C.5.a",
+    "name": "Time Management - Entry Requirement",
+    "description": "Entry requirement for managing one's own time and the time of others"
+  },
+  {
+    "element_id": "3.C.5.b",
+    "name": "Management of Financial Resources - Entry Requirement",
+    "description": "Entry requirement for determining how money will be spent to get the work done, and accounting for these expenditures"
+  },
+  {
+    "element_id": "3.C.5.c",
+    "name": "Management of Material Resources - Entry Requirement",
+    "description": "Entry requirement for obtaining and seeing to the appropriate use of equipment, facilities, and materials needed to do certain work"
+  },
+  {
+    "element_id": "3.C.5.d",
+    "name": "Management of Personnel Resources - Entry Requirement",
+    "description": "Entry requirement for motivating, developing, and directing people as they work, identifying the best people for the job"
+  },
+  {
+    "element_id": "3.D",
+    "name": "Licensing",
+    "description": "Licenses, certificates, or registrations that are awarded to show that a job holder has gained certain skills. This includes requirements for obtaining these credentials, and the organization or agency requiring their possession."
+  },
+  {
+    "element_id": "3.D.1",
+    "name": "License, Certificate, or Registration Required",
+    "description": "At least one license, certificate, or registration is required to perform in this job, including a driver's or vehicle operator's license. The specific license(s), certificate(s), or registration(s) are listed."
+  },
+  {
+    "element_id": "3.D.2",
+    "name": "Specific License or Certificate Required",
+    "description": "Specific education, training, examination, or other requirements for obtaining the licenses, certificates, or registration needed to perform in this job"
+  },
+  {
+    "element_id": "3.D.2.a",
+    "name": "Post-Secondary Degree",
+    "description": "Obtaining the licenses, certificates, or registration needed to perform in this job requires a post-secondary degree, for example an Associate's or Bachelor's degree."
+  },
+  {
+    "element_id": "3.D.2.b",
+    "name": "Graduate Degree",
+    "description": "Obtaining the licenses, certificates, or registration needed to perform in this job requires a graduate degree, for example, a Master's or Doctoral degree."
+  },
+  {
+    "element_id": "3.D.2.c",
+    "name": "On-the-Job Training",
+    "description": "Obtaining the licenses, certificates, or registration needed to perform in this job requires on-the-job training, including apprenticeships, internships, and other supervised experiences."
+  },
+  {
+    "element_id": "3.D.2.d",
+    "name": "Examination",
+    "description": "Obtaining the licenses, certificates, or registration needed to perform in this job requires an examination, for example, written, oral, or performance assessments."
+  },
+  {
+    "element_id": "3.D.2.e",
+    "name": "Character References",
+    "description": "Obtaining the licenses, certificates, or registration needed to perform in this job requires one or more character references from other individuals."
+  },
+  {
+    "element_id": "3.D.4",
+    "name": "Additional Education and Training",
+    "description": "Retaining the licenses, certificates, or registration needed to perform in this job requires additional course work."
+  },
+  {
+    "element_id": "3.D.5",
+    "name": "Organization and Agency Requirements",
+    "description": "Organizations or agencies requiring the specific licenses, certificates, or registration needed to perform in a job"
+  },
+  {
+    "element_id": "3.D.5.a",
+    "name": "Legal Requirement",
+    "description": "Federal, state, or local law requires possessing specific licenses, certificates, or registration for performance in this job."
+  },
+  {
+    "element_id": "3.D.5.b",
+    "name": "Employer Requirement",
+    "description": "Employers require possessing specific licenses, certificates, or registration for performance in this job."
+  },
+  {
+    "element_id": "3.D.5.c",
+    "name": "Union, Guild, or Professional Association",
+    "description": "A union or professional association requires possessing specific licenses, certificates, or registration for performance in this job."
+  },
+  {
+    "element_id": "4",
+    "name": "Occupational Requirements",
+    "description": "Occupational Requirements"
+  },
+  {
+    "element_id": "4.A",
+    "name": "Generalized Work Activities",
+    "description": "Work activities that are common across a very large number of occupations. They are performed in almost all job families and industries."
+  },
+  {
+    "element_id": "4.A.1",
+    "name": "Information Input",
+    "description": "Where and how are the information and data gained that are needed to perform this job?"
+  },
+  {
+    "element_id": "4.A.1.a",
+    "name": "Looking for and Receiving Job-Related Information",
+    "description": "How is information obtained to perform this job?"
+  },
+  {
+    "element_id": "4.A.1.a.1",
+    "name": "Getting Information",
+    "description": "Observing, receiving, and otherwise obtaining information from all relevant sources."
+  },
+  {
+    "element_id": "4.A.1.a.2",
+    "name": "Monitoring Processes, Materials, or Surroundings",
+    "description": "Monitoring and reviewing information from materials, events, or the environment, to detect or assess problems."
+  },
+  {
+    "element_id": "4.A.1.b",
+    "name": "Identifying and Evaluating Job-Relevant Information",
+    "description": "How is information interpreted to perform this job?"
+  },
+  {
+    "element_id": "4.A.1.b.1",
+    "name": "Identifying Objects, Actions, and Events",
+    "description": "Identifying information by categorizing, estimating, recognizing differences or similarities, and detecting changes in circumstances or events."
+  },
+  {
+    "element_id": "4.A.1.b.2",
+    "name": "Inspecting Equipment, Structures, or Materials",
+    "description": "Inspecting equipment, structures, or materials to identify the cause of errors or other problems or defects."
+  },
+  {
+    "element_id": "4.A.1.b.3",
+    "name": "Estimating the Quantifiable Characteristics of Products, Events, or Information",
+    "description": "Estimating sizes, distances, and quantities; or determining time, costs, resources, or materials needed to perform a work activity."
+  },
+  {
+    "element_id": "4.A.2",
+    "name": "Mental Processes",
+    "description": "What processing, planning, problem-solving, decision-making, and innovating activities are performed with job-relevant information?"
+  },
+  {
+    "element_id": "4.A.2.a",
+    "name": "Information and Data Processing",
+    "description": "How is information processed to perform this job?"
+  },
+  {
+    "element_id": "4.A.2.a.1",
+    "name": "Judging the Qualities of Objects, Services, or People",
+    "description": "Assessing the value, importance, or quality of things or people."
+  },
+  {
+    "element_id": "4.A.2.a.2",
+    "name": "Processing Information",
+    "description": "Compiling, coding, categorizing, calculating, tabulating, auditing, or verifying information or data."
+  },
+  {
+    "element_id": "4.A.2.a.3",
+    "name": "Evaluating Information to Determine Compliance with Standards",
+    "description": "Using relevant information and individual judgment to determine whether events or processes comply with laws, regulations, or standards."
+  },
+  {
+    "element_id": "4.A.2.a.4",
+    "name": "Analyzing Data or Information",
+    "description": "Identifying the underlying principles, reasons, or facts of information by breaking down information or data into separate parts."
+  },
+  {
+    "element_id": "4.A.2.b",
+    "name": "Reasoning and Decision Making",
+    "description": "What decisions are made and problems solved in performing this job?"
+  },
+  {
+    "element_id": "4.A.2.b.1",
+    "name": "Making Decisions and Solving Problems",
+    "description": "Analyzing information and evaluating results to choose the best solution and solve problems."
+  },
+  {
+    "element_id": "4.A.2.b.2",
+    "name": "Thinking Creatively",
+    "description": "Developing, designing, or creating new applications, ideas, relationships, systems, or products, including artistic contributions."
+  },
+  {
+    "element_id": "4.A.2.b.3",
+    "name": "Updating and Using Relevant Knowledge",
+    "description": "Keeping up-to-date technically and applying new knowledge to your job."
+  },
+  {
+    "element_id": "4.A.2.b.4",
+    "name": "Developing Objectives and Strategies",
+    "description": "Establishing long-range objectives and specifying the strategies and actions to achieve them."
+  },
+  {
+    "element_id": "4.A.2.b.5",
+    "name": "Scheduling Work and Activities",
+    "description": "Scheduling events, programs, and activities, as well as the work of others."
+  },
+  {
+    "element_id": "4.A.2.b.6",
+    "name": "Organizing, Planning, and Prioritizing Work",
+    "description": "Developing specific goals and plans to prioritize, organize, and accomplish your work."
+  },
+  {
+    "element_id": "4.A.3",
+    "name": "Work Output",
+    "description": "What physical activities are performed, what equipment and vehicles are operated/controlled, and what complex/technical activities are accomplished as job outputs?"
+  },
+  {
+    "element_id": "4.A.3.a",
+    "name": "Performing Physical and Manual Work Activities",
+    "description": "What activities using the body and hands are done to perform this job?"
+  },
+  {
+    "element_id": "4.A.3.a.1",
+    "name": "Performing General Physical Activities",
+    "description": "Performing general physical activities includes doing activities that require considerable use of your arms and legs and moving your whole body, such as climbing, lifting, balancing, walking, stooping, and handling materials."
+  },
+  {
+    "element_id": "4.A.3.a.2",
+    "name": "Handling and Moving Objects",
+    "description": "Using hands and arms in handling, installing, positioning, and moving materials, and manipulating things."
+  },
+  {
+    "element_id": "4.A.3.a.3",
+    "name": "Controlling Machines and Processes",
+    "description": "Using either control mechanisms or direct physical activity to operate machines or processes (not including computers or vehicles)."
+  },
+  {
+    "element_id": "4.A.3.a.4",
+    "name": "Operating Vehicles, Mechanized Devices, or Equipment",
+    "description": "Running, maneuvering, navigating, or driving vehicles or mechanized equipment, such as forklifts, passenger vehicles, aircraft, or watercraft."
+  },
+  {
+    "element_id": "4.A.3.b",
+    "name": "Performing Complex and Technical Activities",
+    "description": "What skilled activities using coordinated movements are done to perform this job?"
+  },
+  {
+    "element_id": "4.A.3.b.1",
+    "name": "Working with Computers",
+    "description": "Using computers and computer systems (including hardware and software) to program, write software, set up functions, enter data, or process information."
+  },
+  {
+    "element_id": "4.A.3.b.2",
+    "name": "Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment",
+    "description": "Providing documentation, detailed instructions, drawings, or specifications to tell others about how devices, parts, equipment, or structures are to be fabricated, constructed, assembled, modified, maintained, or used."
+  },
+  {
+    "element_id": "4.A.3.b.4",
+    "name": "Repairing and Maintaining Mechanical Equipment",
+    "description": "Servicing, repairing, adjusting, and testing machines, devices, moving parts, and equipment that operate primarily on the basis of mechanical (not electronic) principles."
+  },
+  {
+    "element_id": "4.A.3.b.5",
+    "name": "Repairing and Maintaining Electronic Equipment",
+    "description": "Servicing, repairing, calibrating, regulating, fine-tuning, or testing machines, devices, and equipment that operate primarily on the basis of electrical or electronic (not mechanical) principles."
+  },
+  {
+    "element_id": "4.A.3.b.6",
+    "name": "Documenting/Recording Information",
+    "description": "Entering, transcribing, recording, storing, or maintaining information in written or electronic/magnetic form."
+  },
+  {
+    "element_id": "4.A.4",
+    "name": "Interacting With Others",
+    "description": "What interactions with other persons or supervisory activities occur while performing this job?"
+  },
+  {
+    "element_id": "4.A.4.a",
+    "name": "Communicating and Interacting",
+    "description": "What interactions with other people occur while performing this job?"
+  },
+  {
+    "element_id": "4.A.4.a.1",
+    "name": "Interpreting the Meaning of Information for Others",
+    "description": "Translating or explaining what information means and how it can be used."
+  },
+  {
+    "element_id": "4.A.4.a.2",
+    "name": "Communicating with Supervisors, Peers, or Subordinates",
+    "description": "Providing information to supervisors, co-workers, and subordinates by telephone, in written form, e-mail, or in person."
+  },
+  {
+    "element_id": "4.A.4.a.3",
+    "name": "Communicating with People Outside the Organization",
+    "description": "Communicating with people outside the organization, representing the organization to customers, the public, government, and other external sources. This information can be exchanged in person, in writing, or by telephone or e-mail."
+  },
+  {
+    "element_id": "4.A.4.a.4",
+    "name": "Establishing and Maintaining Interpersonal Relationships",
+    "description": "Developing constructive and cooperative working relationships with others, and maintaining them over time."
+  },
+  {
+    "element_id": "4.A.4.a.5",
+    "name": "Assisting and Caring for Others",
+    "description": "Providing personal assistance, medical attention, emotional support, or other personal care to others such as coworkers, customers, or patients."
+  },
+  {
+    "element_id": "4.A.4.a.6",
+    "name": "Selling or Influencing Others",
+    "description": "Convincing others to buy merchandise/goods or to otherwise change their minds or actions."
+  },
+  {
+    "element_id": "4.A.4.a.7",
+    "name": "Resolving Conflicts and Negotiating with Others",
+    "description": "Handling complaints, settling disputes, and resolving grievances and conflicts, or otherwise negotiating with others."
+  },
+  {
+    "element_id": "4.A.4.a.8",
+    "name": "Performing for or Working Directly with the Public",
+    "description": "Performing for people or dealing directly with the public. This includes serving customers in restaurants and stores, and receiving clients or guests."
+  },
+  {
+    "element_id": "4.A.4.b",
+    "name": "Coordinating, Developing, Managing, and Advising",
+    "description": "What coordinating, managerial, or advisory activities are done while performing this job?"
+  },
+  {
+    "element_id": "4.A.4.b.1",
+    "name": "Coordinating the Work and Activities of Others",
+    "description": "Getting members of a group to work together to accomplish tasks."
+  },
+  {
+    "element_id": "4.A.4.b.2",
+    "name": "Developing and Building Teams",
+    "description": "Encouraging and building mutual trust, respect, and cooperation among team members."
+  },
+  {
+    "element_id": "4.A.4.b.3",
+    "name": "Training and Teaching Others",
+    "description": "Identifying the educational needs of others, developing formal educational or training programs or classes, and teaching or instructing others."
+  },
+  {
+    "element_id": "4.A.4.b.4",
+    "name": "Guiding, Directing, and Motivating Subordinates",
+    "description": "Providing guidance and direction to subordinates, including setting performance standards and monitoring performance."
+  },
+  {
+    "element_id": "4.A.4.b.5",
+    "name": "Coaching and Developing Others",
+    "description": "Identifying the developmental needs of others and coaching, mentoring, or otherwise helping others to improve their knowledge or skills."
+  },
+  {
+    "element_id": "4.A.4.b.6",
+    "name": "Providing Consultation and Advice to Others",
+    "description": "Providing guidance and expert advice to management or other groups on technical, systems-, or process-related topics."
+  },
+  {
+    "element_id": "4.A.4.c",
+    "name": "Administering",
+    "description": "What administrative, staffing, monitoring, or controlling activities are done while performing this job?"
+  },
+  {
+    "element_id": "4.A.4.c.1",
+    "name": "Performing Administrative Activities",
+    "description": "Performing day-to-day administrative tasks such as maintaining information files and processing paperwork."
+  },
+  {
+    "element_id": "4.A.4.c.2",
+    "name": "Staffing Organizational Units",
+    "description": "Recruiting, interviewing, selecting, hiring, and promoting employees in an organization."
+  },
+  {
+    "element_id": "4.A.4.c.3",
+    "name": "Monitoring and Controlling Resources",
+    "description": "Monitoring and controlling resources and overseeing the spending of money."
+  },
+  {
+    "element_id": "4.B",
+    "name": "Organizational Context",
+    "description": "Characteristics of the organization that influence how people do their work"
+  },
+  {
+    "element_id": "4.B.1",
+    "name": "Structural Characteristics",
+    "description": "A functional subsystem of organization structure subsuming constructs of (a) organizational structure, and (b) human resources systems and practices"
+  },
+  {
+    "element_id": "4.B.1.a",
+    "name": "Organizational Structure",
+    "description": "The architecture or anatomy of an organization, affecting the behavior of organizational members as well as the ability of organizations to adapt effectively to their environments. Elements of organizational structure include the hierarchy of the organization, the degree of centralization, and the nature of work groups used to accomplish organizational objectives"
+  },
+  {
+    "element_id": "4.B.1.a.1",
+    "name": "Decision Making System",
+    "description": "The amount of autonomy and involvement in decision making that employees have"
+  },
+  {
+    "element_id": "4.B.1.a.1.a",
+    "name": "Decentralization and Employee Empowerment",
+    "description": "Indicates the degree to which employees are provided with different types of information and participate in decision-making"
+  },
+  {
+    "element_id": "4.B.1.a.1.a.1",
+    "name": "Have Control Over Unit or Department",
+    "description": "You have a great deal of control over what happens in your unit or department"
+  },
+  {
+    "element_id": "4.B.1.a.1.a.2",
+    "name": "Have Influence Over Decisions",
+    "description": "You have a great deal of influence over decisions that are made in your unit or department."
+  },
+  {
+    "element_id": "4.B.1.a.1.a.3",
+    "name": "Monitor Data on Quality/Costs/Waste/etc.",
+    "description": "You monitor data on quality, costs, waste, and productivity"
+  },
+  {
+    "element_id": "4.B.1.a.1.a.4",
+    "name": "Determine Work Flow or Order of Tasks",
+    "description": "You determine work flow or the order in which tasks are performed"
+  },
+  {
+    "element_id": "4.B.1.a.1.a.5",
+    "name": "Invest in New Equipment and Technology",
+    "description": "You invest in new equipment and technology"
+  },
+  {
+    "element_id": "4.B.1.a.1.a.6",
+    "name": "Develop New Products, Services, and Procedures",
+    "description": "You develop new products, services, and procedures"
+  },
+  {
+    "element_id": "4.B.1.a.1.b",
+    "name": "Individual versus Team Structure",
+    "description": "Identifies the extent to which employees work in intact teams"
+  },
+  {
+    "element_id": "4.B.1.a.1.b.1",
+    "name": "Percent of Time in Intact Team",
+    "description": "Approximately what percentage of your time do you spend working in an intact team? By intact team we mean a group of 3 or more employees who are jointly responsible for whole work processes and work toward shared goals (e.g., production team; development team; project team)."
+  },
+  {
+    "element_id": "4.B.1.a.2",
+    "name": "Job Characteristics",
+    "description": "Indicates the level of skill variety, task significance, task identity, autonomy, and feedback in this job"
+  },
+  {
+    "element_id": "4.B.1.a.2.a",
+    "name": "Skill Variety",
+    "description": "The variety of skills required of people in this job"
+  },
+  {
+    "element_id": "4.B.1.a.2.a.1",
+    "name": "Job Variety",
+    "description": "How much variety is there in your job? That is, to what extent does the job require you to do many different things at work, using a variety of your skills and talents?"
+  },
+  {
+    "element_id": "4.B.1.a.2.a.2",
+    "name": "Complex or High Level Skills Required",
+    "description": "Your job requires you to use a number of complex or high-level skills."
+  },
+  {
+    "element_id": "4.B.1.a.2.a.3",
+    "name": "Variety of Tasks Required",
+    "description": "Your job requires you to perform a variety of tasks."
+  },
+  {
+    "element_id": "4.B.1.a.2.b",
+    "name": "Task Significance",
+    "description": "The importance or significance of the tasks performed on this job, as reflected by its effect on the lives or well-being of others"
+  },
+  {
+    "element_id": "4.B.1.a.2.b.1",
+    "name": "Significance or Importance of Job",
+    "description": "In general, how significant or important is your job? That is, are the results of your work likely to significantly affect the lives or well-being of other people?"
+  },
+  {
+    "element_id": "4.B.1.a.2.b.2",
+    "name": "Job Quality Affects Lots of People",
+    "description": "Your job is one where a lot of people can be affected by how well the work gets done."
+  },
+  {
+    "element_id": "4.B.1.a.2.b.3",
+    "name": "Job Itself Is Very Significant",
+    "description": "Your job itself is very significant and important in the broader scheme of things."
+  },
+  {
+    "element_id": "4.B.1.a.2.c",
+    "name": "Task Identity",
+    "description": "The extent to which tasks performed on this job can be perceived as contributing to the final product"
+  },
+  {
+    "element_id": "4.B.1.a.2.c.1",
+    "name": "Job Involves Whole Piece of Work",
+    "description": "To what extent does your job involve doing a 'whole' and identifiable piece of work? That is, is the job a complete piece of work that has an obvious beginning and end? Or is it only a small part of the overall piece of work, which is finished by other people or automatic machines? (If your job involves many different tasks or pieces of work, try to think about your typical tasks or the tasks you spend the most time on.)"
+  },
+  {
+    "element_id": "4.B.1.a.2.c.2",
+    "name": "Can Do Entire Piece of Work",
+    "description": "Your job is arranged so that you can do an entire piece of work from beginning to end."
+  },
+  {
+    "element_id": "4.B.1.a.2.c.3",
+    "name": "Can Finish What You Start",
+    "description": "Your job provides you a chance to completely finish the piece of work you began."
+  },
+  {
+    "element_id": "4.B.1.a.2.d",
+    "name": "Autonomy",
+    "description": "The amount of freedom in the job, as reflected in a person being able to exercise personal initiative and judgment in task performance"
+  },
+  {
+    "element_id": "4.B.1.a.2.d.1",
+    "name": "Autonomy and Freedom in Job",
+    "description": "How much autonomy and freedom are there in your job? That is, to what extent does your job permit you to decide on your own how to go about doing your job?"
+  },
+  {
+    "element_id": "4.B.1.a.2.d.2",
+    "name": "Chance for Initiative and Judgment",
+    "description": "Your job gives you a chance to use your personal initiative and judgment in carrying out the work."
+  },
+  {
+    "element_id": "4.B.1.a.2.d.3",
+    "name": "Opportunity for Independence and Freedom",
+    "description": "Your job gives you considerable opportunity for independence and freedom in how you do your job."
+  },
+  {
+    "element_id": "4.B.1.a.2.e",
+    "name": "Feedback",
+    "description": "The extent to which this job provides information about how well one is performing"
+  },
+  {
+    "element_id": "4.B.1.a.2.e.1",
+    "name": "Extent of Feedback From Doing Job Itself",
+    "description": "To what extent does doing the job itself provide you with information about your work performance? That is, does the actual work itself provide clues about how well you are doing--aside from any 'feedback' co-workers or supervisors may provide?"
+  },
+  {
+    "element_id": "4.B.1.a.2.e.2",
+    "name": "Doing Job Provides Chances for Feedback",
+    "description": "Just doing the job provides many chances for you to figure out how well you are doing."
+  },
+  {
+    "element_id": "4.B.1.a.2.e.3",
+    "name": "After Finishing Job, Know Own Performance",
+    "description": "After you finish a job, you know whether you performed well."
+  },
+  {
+    "element_id": "4.B.1.a.3",
+    "name": "Job Stability and Rotation",
+    "description": "The amount of stability in the job and the extent of job rotation"
+  },
+  {
+    "element_id": "4.B.1.a.3.a",
+    "name": "Number of Supervisors in Past Year",
+    "description": "How many different supervisors have you had in the past year?"
+  },
+  {
+    "element_id": "4.B.1.a.3.b",
+    "name": "Number of Work Teams in Past Year",
+    "description": "Approximately how many different work teams have you belonged to during the past year?"
+  },
+  {
+    "element_id": "4.B.1.a.3.c",
+    "name": "Number of Work Group Reorganizations in Past Year",
+    "description": "In the past year, how many times has your primary work group gone through some kind of reorganization?"
+  },
+  {
+    "element_id": "4.B.1.a.3.d",
+    "name": "Number of Times Nature of Job Changed",
+    "description": "In the past year, how many times has the nature of your job duties changed dramatically?"
+  },
+  {
+    "element_id": "4.B.1.a.3.e",
+    "name": "Job Rotation Practices",
+    "description": "Which statement best describes the job rotation practices in your job and your work group?"
+  },
+  {
+    "element_id": "4.B.1.b",
+    "name": "Human Resources Systems and Practices",
+    "description": "Organizational practices and policies designed to ensure that an organization has employees who are capable of meeting its goals"
+  },
+  {
+    "element_id": "4.B.1.b.1",
+    "name": "Recruitment and Selection",
+    "description": "Organizational practices, decisions, and processes that affect (a) the capability of an organization to make hiring, promotion, and other personnel decisions, and (b) the number or types of individuals who are willing to apply for or accept a given vacancy"
+  },
+  {
+    "element_id": "4.B.1.b.1.a",
+    "name": "Recruitment Operations",
+    "description": "Activities involved in implementing recruitment plans (e.g., selecting sources, realistic job preview)"
+  },
+  {
+    "element_id": "4.B.1.b.1.a.1",
+    "name": "Sources of People for Current Job",
+    "description": "Which of the sources listed below are used to recruit people for your current job?"
+  },
+  {
+    "element_id": "4.B.1.b.1.b",
+    "name": "Selection Assessment Methods Used",
+    "description": "The methods used for selection or promotion of employees"
+  },
+  {
+    "element_id": "4.B.1.b.1.b.1",
+    "name": "Assessment Methods Used to Select for Job",
+    "description": "Which of the following assessment methods are used to select people for your current job?"
+  },
+  {
+    "element_id": "4.B.1.b.2",
+    "name": "Training and Development",
+    "description": "The systematic acquisition of attitudes, concepts, knowledge, roles, or skills that result in improved performance at work"
+  },
+  {
+    "element_id": "4.B.1.b.2.a",
+    "name": "Training Methods",
+    "description": "The methods used in training programs"
+  },
+  {
+    "element_id": "4.B.1.b.2.a.1",
+    "name": "Training Methods Used in Company",
+    "description": "Which of the following training methods have been used in company training courses you have attended in the last two years?"
+  },
+  {
+    "element_id": "4.B.1.b.2.b",
+    "name": "Training Topics and Content",
+    "description": "What trainers intend to teach trainees through training programs"
+  },
+  {
+    "element_id": "4.B.1.b.2.b.1",
+    "name": "Areas of Recent Formal Training",
+    "description": "In which of the following content areas have you received formal training in the last two years?"
+  },
+  {
+    "element_id": "4.B.1.b.2.c",
+    "name": "Extent and Support of Training Activities",
+    "description": "The extent to which an organization makes training available to its employees and provides financial support for training activities"
+  },
+  {
+    "element_id": "4.B.1.b.2.c.1",
+    "name": "Recent Technical Skill Training",
+    "description": "In the last two years, how often have you attended company sponsored job-related technical training (i.e., technical skill training)?"
+  },
+  {
+    "element_id": "4.B.1.b.3",
+    "name": "Reward System",
+    "description": "Monetary compensation and monetary and non-monetary benefits organizations provide to their employees"
+  },
+  {
+    "element_id": "4.B.1.b.3.a",
+    "name": "Basis of Compensation",
+    "description": "The extent to which organizations reward individuals based on: (a) their knowledge, skills, and performance, (b) seniority, (c) team performance, (d) organizational performance, and (e) job attributes"
+  },
+  {
+    "element_id": "4.B.1.b.3.a.1",
+    "name": "Compensation Package Components",
+    "description": "Which of the following is part of your compensation package (i.e., pay)?"
+  },
+  {
+    "element_id": "4.B.1.b.3.b",
+    "name": "Benefits",
+    "description": "The extent to which employees' compensation includes benefits such as pensions, insurance, paid leave, awards and bonuses, pay for time not worked, etc."
+  },
+  {
+    "element_id": "4.B.1.b.3.b.1",
+    "name": "Benefit Components",
+    "description": "Which of the following is part of your benefits?"
+  },
+  {
+    "element_id": "4.B.2",
+    "name": "Social Processes",
+    "description": "A functional subsystem of organization structure subsuming processes linking people (employees) to their work and to each other and includes elements such as values, goals, leadership, and roles"
+  },
+  {
+    "element_id": "4.B.2.a",
+    "name": "Goals",
+    "description": "Individual goal setting."
+  },
+  {
+    "element_id": "4.B.2.a.1",
+    "name": "Individual Goal Characteristics",
+    "description": "The extent to which an individual's goal is made explicit, and the probability that an individual can attain the goal"
+  },
+  {
+    "element_id": "4.B.2.a.1.a",
+    "name": "Achieve Most Important Individual Goal",
+    "description": "Realistically, the probability that you will achieve your most important individual work goal this year is:"
+  },
+  {
+    "element_id": "4.B.2.a.1.b",
+    "name": "How Many Quantitative Individual Goals",
+    "description": "How many of your individual work goals are quantitative (e.g., selling $100,000 worth of merchandise as opposed to selling as much merchandise as possible)."
+  },
+  {
+    "element_id": "4.B.2.a.2",
+    "name": "Goal Feedback",
+    "description": "The extent to which an individual is given periodic feedback regarding his or her progress against a goal"
+  },
+  {
+    "element_id": "4.B.2.a.2.a",
+    "name": "How Many Specific Individual Goals",
+    "description": "How many of your individual work goals are specific -- that is, you will know exactly when you have achieved them?"
+  },
+  {
+    "element_id": "4.B.2.a.2.b",
+    "name": "When Get Information on Individual Goals",
+    "description": "How often do you get information regarding how close you are to achieving your most important individual work goal (for example, an interim financial report or data on number of units sold)?"
+  },
+  {
+    "element_id": "4.B.2.a.2.c",
+    "name": "Informal, Job-Relevant Feedback",
+    "description": "To what extent do you receive informal, job-relevant feedback from your supervisor?"
+  },
+  {
+    "element_id": "4.B.2.a.2.d",
+    "name": "Meet One-on-One With Supervisor on Goals, Training, and Development",
+    "description": "During the past year, how often have you met one-on-one with your immediate supervisor to discuss issues such as your performance, goals, training and development?"
+  },
+  {
+    "element_id": "4.B.2.b",
+    "name": "Roles",
+    "description": "Characteristics of job incumbents' roles, such as the extent to which they involve conflict and overload"
+  },
+  {
+    "element_id": "4.B.2.b.1",
+    "name": "Role Conflict",
+    "description": "The extent to which an individual has to deal with conflicting demands"
+  },
+  {
+    "element_id": "4.B.2.b.1.a",
+    "name": "Often Receive Conflicting Requests",
+    "description": "You often receive conflicting requests from two or more people at work."
+  },
+  {
+    "element_id": "4.B.2.b.1.b",
+    "name": "Work With Groups With Different Focuses",
+    "description": "You work with two or more groups who want you to focus on different things."
+  },
+  {
+    "element_id": "4.B.2.b.1.c",
+    "name": "You and Your Supervisor Agree About Job",
+    "description": "You and your supervisor agree about what your job should be."
+  },
+  {
+    "element_id": "4.B.2.b.1.d",
+    "name": "Supervisor Makes Conflicting Requests",
+    "description": "Your supervisor often asks you to do two or more things that conflict (for example, save a large amount of money while at the same time dramatically increasing quality)."
+  },
+  {
+    "element_id": "4.B.2.b.2",
+    "name": "Role Negotiability",
+    "description": "The extent to which an individual can negotiate his/her role in an organization"
+  },
+  {
+    "element_id": "4.B.2.b.2.a",
+    "name": "Negotiate Changes in Role with Supervisor",
+    "description": "You have negotiated changes in the nature of your role at work with your supervisor."
+  },
+  {
+    "element_id": "4.B.2.b.2.b",
+    "name": "Significant Input Into Way You Do Job",
+    "description": "You have significant input into the way you do your job."
+  },
+  {
+    "element_id": "4.B.2.b.3",
+    "name": "Role Overload",
+    "description": "A discrepancy between the job's demands and one's ability to meet those demands"
+  },
+  {
+    "element_id": "4.B.2.b.3.a",
+    "name": "Get Assignments without Adequate Resources",
+    "description": "You receive assignments at work without adequate resources and materials to complete them properly."
+  },
+  {
+    "element_id": "4.B.2.b.3.b",
+    "name": "Given Enough Time to Do Work",
+    "description": "You are given enough time to do what is expected of you at work."
+  },
+  {
+    "element_id": "4.B.2.b.3.c",
+    "name": "Too Much for One Person to Do",
+    "description": "It often seems like you have too much work for one person to do."
+  },
+  {
+    "element_id": "4.B.2.c",
+    "name": "Culture",
+    "description": "Patterns of behaviors and social relationships reflecting the assumptions, values, norms, and artifacts shared by members of the organization"
+  },
+  {
+    "element_id": "4.B.2.c.1",
+    "name": "Organizational Values",
+    "description": "Indicates the importance of different organizational values such as tradition, stability, innovation, and collaboration"
+  },
+  {
+    "element_id": "4.B.2.c.1.a",
+    "name": "Guiding Principles of Organization",
+    "description": "How important are each of the following concepts, or values, as a guiding principle for your organization as a whole."
+  },
+  {
+    "element_id": "4.B.2.c.1.a.1",
+    "name": "Taking Chances; Going Out on a Limb",
+    "description": "Taking chances; going out on a limb"
+  },
+  {
+    "element_id": "4.B.2.c.1.a.2",
+    "name": "Fairness; Justice",
+    "description": "Fairness; justice"
+  },
+  {
+    "element_id": "4.B.2.c.1.a.3",
+    "name": "Precision",
+    "description": "Precision; paying attention to even the smallest details"
+  },
+  {
+    "element_id": "4.B.2.c.1.a.4",
+    "name": "Stability",
+    "description": "Stability; keeping things on an even keel"
+  },
+  {
+    "element_id": "4.B.2.c.1.a.5",
+    "name": "Getting Things Done",
+    "description": "Getting things done; taking decisive or quick action"
+  },
+  {
+    "element_id": "4.B.2.c.1.a.6",
+    "name": "Caring About Employees",
+    "description": "Caring about employees; showing concern for their well-being"
+  },
+  {
+    "element_id": "4.B.2.c.1.a.7",
+    "name": "Innovation",
+    "description": "Innovation; finding new and better ways of doing things; openness to new ideas"
+  },
+  {
+    "element_id": "4.B.2.c.1.a.8",
+    "name": "Aggressiveness",
+    "description": "Aggressiveness; forcefully going after what you want"
+  },
+  {
+    "element_id": "4.B.2.c.1.a.9",
+    "name": "Valuing Customers",
+    "description": "Valuing customers; emphasizing customer service"
+  },
+  {
+    "element_id": "4.B.2.c.1.a.10",
+    "name": "Providing High Quality Products",
+    "description": "Providing high quality products or services; meeting high standards of excellence"
+  },
+  {
+    "element_id": "4.B.2.c.1.a.11",
+    "name": "Openness and Honesty",
+    "description": "Openness; honesty; keeping employees well informed"
+  },
+  {
+    "element_id": "4.B.2.c.1.a.12",
+    "name": "Flexibility, Adapting to Change",
+    "description": "Flexibility, adapting to change"
+  },
+  {
+    "element_id": "4.B.2.d",
+    "name": "Supervisor Role",
+    "description": "The nature of supervisory leadership"
+  },
+  {
+    "element_id": "4.B.2.d.1",
+    "name": "Supervisor Friendly and Supportive",
+    "description": "To what extent does your supervisor act in a friendly and supportive manner? For example, does he/she show concern for members of your work group and respect for your ideas?"
+  },
+  {
+    "element_id": "4.B.2.d.2",
+    "name": "Supervisor Takes Active Role",
+    "description": "To what extent does your supervisor take an active role in directing your work group's activities by setting goals, planning and scheduling work, assigning tasks, and making sure that each person knows what he/she should be doing?"
+  },
+  {
+    "element_id": "4.B.2.d.3",
+    "name": "Supervisor Provides Clear Vision",
+    "description": "To what extent does your supervisor provide members of your work group with a clear vision of where the group is going and keep everyone fully committed to the work at hand?"
+  },
+  {
+    "element_id": "4.B.2.d.4",
+    "name": "Supervisor Solves Problems",
+    "description": "To what extent does your supervisor quickly and effectively solve problems, even difficult problems, that come up in your work group?"
+  },
+  {
+    "element_id": "4.C",
+    "name": "Work Context",
+    "description": "Physical and social factors that influence the nature of work"
+  },
+  {
+    "element_id": "4.C.1",
+    "name": "Interpersonal Relationships",
+    "description": "This category describes the context of the job in terms of human interaction processes"
+  },
+  {
+    "element_id": "4.C.1.a",
+    "name": "Communication",
+    "description": "Types and frequency of interactions with other people that are required as part of this job."
+  },
+  {
+    "element_id": "4.C.1.a.2",
+    "name": "Communication Methods",
+    "description": "How frequently does this job require the use of the following communication methods?"
+  },
+  {
+    "element_id": "4.C.1.a.2.c",
+    "name": "Public Speaking",
+    "description": "How frequently does your job require public speaking (one speaker with an audience)?"
+  },
+  {
+    "element_id": "4.C.1.a.2.f",
+    "name": "Telephone Conversations",
+    "description": "How often do you have telephone conversations in this job?"
+  },
+  {
+    "element_id": "4.C.1.a.2.h",
+    "name": "E-Mail",
+    "description": "How frequently does your job require you to use E-mail?"
+  },
+  {
+    "element_id": "4.C.1.a.2.j",
+    "name": "Written Letters and Memos",
+    "description": "How frequently does your job require written letters and memos?"
+  },
+  {
+    "element_id": "4.C.1.a.2.l",
+    "name": "Face-to-Face Discussions with Individuals and Within Teams",
+    "description": "How frequently does your job require face-to-face discussions with individuals and within teams?"
+  },
+  {
+    "element_id": "4.C.1.a.4",
+    "name": "Contact With Others",
+    "description": "How much does this job require the worker to be in contact with others (face-to-face, by telephone, or otherwise) in order to perform it?"
+  },
+  {
+    "element_id": "4.C.1.b",
+    "name": "Role Relationships",
+    "description": "Importance of different types of interactions with others both inside and outside the organization"
+  },
+  {
+    "element_id": "4.C.1.b.1",
+    "name": "Job Interactions",
+    "description": "How important are interactions requiring the worker to:"
+  },
+  {
+    "element_id": "4.C.1.b.1.e",
+    "name": "Work With or Contribute to a Work Group or Team",
+    "description": "How important is it to work with or contribute to a work group or team in this job?"
+  },
+  {
+    "element_id": "4.C.1.b.1.f",
+    "name": "Deal With External Customers or the Public in General",
+    "description": "How important is it to deal with external customers (as in retail sales) or the public in general (as in police work) in this job?"
+  },
+  {
+    "element_id": "4.C.1.b.1.g",
+    "name": "Coordinate or Lead Others in Accomplishing Work Activities",
+    "description": "How important is it to coordinate or lead others (not as a supervisor or team leader) in accomplishing work activities in this job?"
+  },
+  {
+    "element_id": "4.C.1.c",
+    "name": "Responsibility for Others",
+    "description": "Amount of responsibility the worker has for other workers as a part of this job"
+  },
+  {
+    "element_id": "4.C.1.c.1",
+    "name": "Health and Safety of Other Workers",
+    "description": "How much responsibility is there for the health and safety of others in this job?"
+  },
+  {
+    "element_id": "4.C.1.c.2",
+    "name": "Work Outcomes and Results of Other Workers",
+    "description": "How responsible is the worker for work outcomes and results of other workers?"
+  },
+  {
+    "element_id": "4.C.1.d",
+    "name": "Conflictual Contact",
+    "description": "Amount of conflict that the worker will encounter as part of this job"
+  },
+  {
+    "element_id": "4.C.1.d.1",
+    "name": "Conflict Situations",
+    "description": "How frequently are there conflict situations the employee has to face in this job?"
+  },
+  {
+    "element_id": "4.C.1.d.2",
+    "name": "Dealing With Unpleasant, Angry, or Discourteous People",
+    "description": "How frequently does the worker have to deal with unpleasant, angry, or discourteous individuals as part of the job requirements?"
+  },
+  {
+    "element_id": "4.C.1.d.3",
+    "name": "Dealing with Violent or Physically Aggressive People",
+    "description": "How frequently does this job require the worker to deal with physical aggression of violent individuals?"
+  },
+  {
+    "element_id": "4.C.2",
+    "name": "Physical Work Conditions",
+    "description": "This category describes the work context as it relates to the interactions between the worker and the physical job environment"
+  },
+  {
+    "element_id": "4.C.2.a",
+    "name": "Work Setting",
+    "description": "Description of physical surroundings that the worker will face as part of this job"
+  },
+  {
+    "element_id": "4.C.2.a.1",
+    "name": "Frequency Required to Work:",
+    "description": "How frequently does this job require the worker to work:"
+  },
+  {
+    "element_id": "4.C.2.a.1.a",
+    "name": "Indoors, Environmentally Controlled",
+    "description": "How often does this job require working indoors in an environmentally controlled environment (like a warehouse with air conditioning)?"
+  },
+  {
+    "element_id": "4.C.2.a.1.b",
+    "name": "Indoors, Not Environmentally Controlled",
+    "description": "How often does this job require working in an environment that is not environmentally controlled (like a warehouse without air conditioning)?"
+  },
+  {
+    "element_id": "4.C.2.a.1.c",
+    "name": "Outdoors, Exposed to All Weather Conditions",
+    "description": "How often does this job require working outdoors, exposed to all weather conditions?"
+  },
+  {
+    "element_id": "4.C.2.a.1.d",
+    "name": "Outdoors, Under Cover",
+    "description": "How often does this job require working outdoors, under cover (like in an open shed)?"
+  },
+  {
+    "element_id": "4.C.2.a.1.e",
+    "name": "In an Open Vehicle or Operating Equipment",
+    "description": "How often does this job require working in an open vehicle or operating equipment (like a tractor)?"
+  },
+  {
+    "element_id": "4.C.2.a.1.f",
+    "name": "In an Enclosed Vehicle or Operate Enclosed Equipment",
+    "description": "How often does this job require working in a closed vehicle or operate enclosed equipment (like a car)?"
+  },
+  {
+    "element_id": "4.C.2.a.3",
+    "name": "Physical Proximity",
+    "description": "To what extent does this job require the worker to perform job tasks physically close to other people?"
+  },
+  {
+    "element_id": "4.C.2.b",
+    "name": "Environmental Conditions",
+    "description": "Description of extreme environmental conditions the worker will be placed in as part of this job"
+  },
+  {
+    "element_id": "4.C.2.b.1",
+    "name": "Frequency in Environmental Conditions",
+    "description": "How often during a usual work period is the worker exposed to the following conditions:"
+  },
+  {
+    "element_id": "4.C.2.b.1.a",
+    "name": "Exposed to Sounds, Noise Levels that are Distracting or Uncomfortable",
+    "description": "How often does this job require working exposed to sounds and noise levels that are distracting or uncomfortable?"
+  },
+  {
+    "element_id": "4.C.2.b.1.b",
+    "name": "Exposed to Very Hot or Cold Temperatures",
+    "description": "How often does this job require working in very hot (above 90 F degrees) or very cold (below 32 F degrees) temperatures?"
+  },
+  {
+    "element_id": "4.C.2.b.1.c",
+    "name": "Exposed to Extremely Bright or Inadequate Lighting Conditions",
+    "description": "How often does this job require working in extremely bright or inadequate lighting conditions?"
+  },
+  {
+    "element_id": "4.C.2.b.1.d",
+    "name": "Exposed to Contaminants",
+    "description": "How often does this job require working exposed to contaminants (such as pollutants, gases, dust or odors)?"
+  },
+  {
+    "element_id": "4.C.2.b.1.e",
+    "name": "Exposed to Cramped Work Space, Awkward Positions",
+    "description": "How often does this job require working in cramped work spaces that requires getting into awkward positions?"
+  },
+  {
+    "element_id": "4.C.2.b.1.f",
+    "name": "Exposed to Whole Body Vibration",
+    "description": "How often does this job require exposure to whole body vibration (like operating a jackhammer or earth moving equipment)?"
+  },
+  {
+    "element_id": "4.C.2.c",
+    "name": "Job Hazards",
+    "description": "Descriptions of types of hazardous conditions the worker could be exposed to as part of this job. This includes the frequency of exposure, and the likelihood and degree of injury if exposed."
+  },
+  {
+    "element_id": "4.C.2.c.1",
+    "name": "Frequency of Exposure to Job Hazards",
+    "description": "How often does this job require the worker to be exposed to the following hazards?"
+  },
+  {
+    "element_id": "4.C.2.c.1.a",
+    "name": "Exposed to Radiation",
+    "description": "How often does this job require exposure to radiation?"
+  },
+  {
+    "element_id": "4.C.2.c.1.b",
+    "name": "Exposed to Disease or Infections",
+    "description": "How often does this job require exposure to disease/infections?"
+  },
+  {
+    "element_id": "4.C.2.c.1.c",
+    "name": "Exposed to High Places",
+    "description": "How often does this job require exposure to high places?"
+  },
+  {
+    "element_id": "4.C.2.c.1.d",
+    "name": "Exposed to Hazardous Conditions",
+    "description": "How often does this job require exposure to hazardous conditions?"
+  },
+  {
+    "element_id": "4.C.2.c.1.e",
+    "name": "Exposed to Hazardous Equipment",
+    "description": "How often does this job require exposure to hazardous equipment?"
+  },
+  {
+    "element_id": "4.C.2.c.1.f",
+    "name": "Exposed to Minor Burns, Cuts, Bites, or Stings",
+    "description": "How often does this job require exposure to minor burns, cuts, bites, or stings?"
+  },
+  {
+    "element_id": "4.C.2.c.2",
+    "name": "Likelihood of Injury From Job Hazards",
+    "description": "What is the likelihood that the worker would be injured as a result of being exposed to the following hazards while performing this job?"
+  },
+  {
+    "element_id": "4.C.2.c.3",
+    "name": "Degree of Injury",
+    "description": "If injury, due to exposure to the following hazards, were to occur while performing this job, how serious would be the likely outcome?"
+  },
+  {
+    "element_id": "4.C.2.d",
+    "name": "Body Positioning",
+    "description": "Amount of time the worker will spend in a variety of physical positions on this job"
+  },
+  {
+    "element_id": "4.C.2.d.1",
+    "name": "Time Spent in Body Positions",
+    "description": "How much time in a usual work period does the worker spend:"
+  },
+  {
+    "element_id": "4.C.2.d.1.a",
+    "name": "Spend Time Sitting",
+    "description": "How much does this job require sitting?"
+  },
+  {
+    "element_id": "4.C.2.d.1.b",
+    "name": "Spend Time Standing",
+    "description": "How much does this job require standing?"
+  },
+  {
+    "element_id": "4.C.2.d.1.c",
+    "name": "Spend Time Climbing Ladders, Scaffolds, or Poles",
+    "description": "How much does this job require climbing ladders, scaffolds, poles, etc.?"
+  },
+  {
+    "element_id": "4.C.2.d.1.d",
+    "name": "Spend Time Walking or Running",
+    "description": "How much does this job require walking or running?"
+  },
+  {
+    "element_id": "4.C.2.d.1.e",
+    "name": "Spend Time Kneeling, Crouching, Stooping, or Crawling",
+    "description": "How much does this job require kneeling, crouching, stooping or crawling?"
+  },
+  {
+    "element_id": "4.C.2.d.1.f",
+    "name": "Spend Time Keeping or Regaining Balance",
+    "description": "How much does this job require keeping or regaining your balance?"
+  },
+  {
+    "element_id": "4.C.2.d.1.g",
+    "name": "Spend Time Using Your Hands to Handle, Control, or Feel Objects, Tools, or Controls",
+    "description": "How much does this job require using your hands to handle, control, or feel objects, tools or controls?"
+  },
+  {
+    "element_id": "4.C.2.d.1.h",
+    "name": "Spend Time Bending or Twisting Your Body",
+    "description": "How much does this job require bending or twisting your body?"
+  },
+  {
+    "element_id": "4.C.2.d.1.i",
+    "name": "Spend Time Making Repetitive Motions",
+    "description": "How much does this job require making repetitive motions?"
+  },
+  {
+    "element_id": "4.C.2.e",
+    "name": "Work Attire",
+    "description": "Dress requirements of this job"
+  },
+  {
+    "element_id": "4.C.2.e.1",
+    "name": "Frequency of Wearing Work Attire",
+    "description": "How often does the worker wear:"
+  },
+  {
+    "element_id": "4.C.2.e.1.d",
+    "name": "Wear Common Protective or Safety Equipment such as Safety Shoes, Glasses, Gloves, Hearing Protection, Hard Hats, or Life Jackets",
+    "description": "How often does this job require wearing common protective or safety equipment such as safety shoes, glasses, gloves, hearing protection, hard hats or life-jackets?"
+  },
+  {
+    "element_id": "4.C.2.e.1.e",
+    "name": "Wear Specialized Protective or Safety Equipment such as Breathing Apparatus, Safety Harness, Full Protection Suits, or Radiation Protection",
+    "description": "How often does this job require wearing specialized protective or safety equipment such as breathing apparatus, safety harness, full protection suits, or radiation protection?"
+  },
+  {
+    "element_id": "4.C.3",
+    "name": "Structural Job Characteristics",
+    "description": "This category involves the relationships or interactions between the worker and the structural characteristics of the job"
+  },
+  {
+    "element_id": "4.C.3.a",
+    "name": "Criticality of Position",
+    "description": "Amount of impact the worker has on final products and their outcomes"
+  },
+  {
+    "element_id": "4.C.3.a.1",
+    "name": "Consequence of Error",
+    "description": "How serious would the result usually be if the worker made a mistake that was not easily correctable?"
+  },
+  {
+    "element_id": "4.C.3.a.2",
+    "name": "Impact of Decisions",
+    "description": "The frequency and nature of the impact of worker's decisions on the organization"
+  },
+  {
+    "element_id": "4.C.3.a.2.a",
+    "name": "Impact of Decisions on Co-workers or Company Results",
+    "description": "What results do your decisions usually have on other people or the image or reputation or financial resources of your employer?"
+  },
+  {
+    "element_id": "4.C.3.a.2.b",
+    "name": "Frequency of Decision Making",
+    "description": "How often is the worker required to make decisions that affect other people, the financial resources, and/or the image and reputation of the organization?"
+  },
+  {
+    "element_id": "4.C.3.a.4",
+    "name": "Freedom to Make Decisions",
+    "description": "How much decision making freedom, without supervision, does the job offer?"
+  },
+  {
+    "element_id": "4.C.3.b",
+    "name": "Routine versus Challenging Work",
+    "description": "The relative amounts of routine versus challenging work the worker will perform as part of this job"
+  },
+  {
+    "element_id": "4.C.3.b.2",
+    "name": "Degree of Automation",
+    "description": "How automated is the job?"
+  },
+  {
+    "element_id": "4.C.3.b.4",
+    "name": "Importance of Being Exact or Accurate",
+    "description": "How important is being very exact or highly accurate in performing this job?"
+  },
+  {
+    "element_id": "4.C.3.b.7",
+    "name": "Importance of Repeating Same Tasks",
+    "description": "How important are continuous, repetitive, physical activities (like key entry) or mental activities (like checking entries in a ledger) to performing this job?"
+  },
+  {
+    "element_id": "4.C.3.b.8",
+    "name": "Determine Tasks, Priorities and Goals",
+    "description": "How much freedom does the worker have in determining the tasks, priorities, or goals of the job?"
+  },
+  {
+    "element_id": "4.C.3.c",
+    "name": "Competition",
+    "description": "Amount of competition that the worker will face as part of this job"
+  },
+  {
+    "element_id": "4.C.3.c.1",
+    "name": "Level of Competition",
+    "description": "To what extent does this job require the worker to compete or to be aware of competitive pressures?"
+  },
+  {
+    "element_id": "4.C.3.d",
+    "name": "Pace and Scheduling",
+    "description": "Description of the role that time plays in the way the worker performs the tasks required by this job"
+  },
+  {
+    "element_id": "4.C.3.d.1",
+    "name": "Time Pressure",
+    "description": "How often does this job require the worker to meet strict deadlines?"
+  },
+  {
+    "element_id": "4.C.3.d.3",
+    "name": "Pace Determined by Speed of Equipment",
+    "description": "How important is it to this job that the pace is determined by the speed of equipment or machinery? (This does not refer to keeping busy at all times on this job.)"
+  },
+  {
+    "element_id": "4.C.3.d.4",
+    "name": "Work Schedules",
+    "description": "How regular are the work schedules for this job?"
+  },
+  {
+    "element_id": "4.C.3.d.8",
+    "name": "Duration of Typical Work Week",
+    "description": "Number of hours typically worked in one week."
+  },
+  {
+    "element_id": "4.D",
+    "name": "Detailed Work Activities",
+    "description": "Specific work activities that are performed across a small to moderate number of occupations within a job family."
+  },
+  {
+    "element_id": "4.D.1",
+    "name": "Detailed Work Activities List",
+    "description": "List of detailed work activities for each occupation"
+  },
+  {
+    "element_id": "4.E",
+    "name": "Intermediate Work Activities",
+    "description": "Work activities that are common across many occupations. They are performed in many job families and industries."
+  },
+  {
+    "element_id": "4.E.1",
+    "name": "Intermediate Work Activities List",
+    "description": "List of intermediate work activities for each occupation"
+  },
+  {
+    "element_id": "5",
+    "name": "Occupation-Specific Information",
+    "description": "Occupation-Specific Information"
+  },
+  {
+    "element_id": "5.A",
+    "name": "Tasks",
+    "description": "Occupation-Specific Tasks"
+  },
+  {
+    "element_id": "5.A.1",
+    "name": "Task List",
+    "description": "List of tasks for each occupation"
+  },
+  {
+    "element_id": "5.C",
+    "name": "Title",
+    "description": "Primary title and code used to identify a single occupation in the O*NET-SOC taxonomy"
+  },
+  {
+    "element_id": "5.C.1",
+    "name": "Title",
+    "description": "O*NET-SOC occupation title and code"
+  },
+  {
+    "element_id": "5.D",
+    "name": "Description",
+    "description": "A statement of required or important duties performed by workers in an occupation in the O*NET-SOC taxonomy."
+  },
+  {
+    "element_id": "5.D.1",
+    "name": "Description",
+    "description": "O*NET-SOC occupation description"
+  },
+  {
+    "element_id": "5.E",
+    "name": "Alternate Titles",
+    "description": "Alternate or \"lay titles\" include related job titles and occupational titles gathered from job incumbents, occupational experts, government agencies, professional groups, customer input, employer job postings, and other occupational classification systems."
+  },
+  {
+    "element_id": "5.E.1",
+    "name": "Alternate Titles List",
+    "description": "List of alternate titles"
+  },
+  {
+    "element_id": "5.E.2",
+    "name": "Sample of Reported Titles List",
+    "description": "List of sample of reported titles"
+  },
+  {
+    "element_id": "5.F",
+    "name": "Technology Skills",
+    "description": "Information technology and software skills essential to the functions of an occupational role."
+  },
+  {
+    "element_id": "5.F.1",
+    "name": "Technology Skills List",
+    "description": "List of technology skills for each occupation."
+  },
+  {
+    "element_id": "5.G",
+    "name": "Tools",
+    "description": "Machines, equipment, and tools essential to the performance of an occupational role."
+  },
+  {
+    "element_id": "5.G.1",
+    "name": "Tools List",
+    "description": "List of machines, equipment, and tools for each occupation."
+  },
+  {
+    "element_id": "6",
+    "name": "Workforce Characteristics",
+    "description": "Workforce Characteristics"
+  },
+  {
+    "element_id": "6.A",
+    "name": "Labor Market Information",
+    "description": "Labor Market Information"
+  },
+  {
+    "element_id": "6.A.1",
+    "name": "Occupational Statistics",
+    "description": "Information related to economic conditions and labor force characteristics of occupations"
+  },
+  {
+    "element_id": "6.B",
+    "name": "Occupational Outlook",
+    "description": "Occupational Outlook"
+  },
+  {
+    "element_id": "6.B.1",
+    "name": "Occupational Projections",
+    "description": "Projections of future economic conditions and labor force characteristics of occupations"
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "element_id": "4.A.1",
+    "name": "Information Input",
+    "description": "Where and how are the information and data gained that are needed to perform this job?"
+  },
+  {
+    "element_id": "4.A.1.a",
+    "name": "Looking for and Receiving Job-Related Information",
+    "description": "How is information obtained to perform this job?"
+  },
+  {
+    "element_id": "4.A.1.a.1",
+    "name": "Getting Information",
+    "description": "Observing, receiving, and otherwise obtaining information from all relevant sources."
+  },
+  {
+    "element_id": "4.A.1.a.2",
+    "name": "Monitoring Processes, Materials, or Surroundings",
+    "description": "Monitoring and reviewing information from materials, events, or the environment, to detect or assess problems."
+  },
+  {
+    "element_id": "4.A.1.b",
+    "name": "Identifying and Evaluating Job-Relevant Information",
+    "description": "How is information interpreted to perform this job?"
+  },
+  {
+    "element_id": "4.A.1.b.1",
+    "name": "Identifying Objects, Actions, and Events",
+    "description": "Identifying information by categorizing, estimating, recognizing differences or similarities, and detecting changes in circumstances or events."
+  },
+  {
+    "element_id": "4.A.1.b.2",
+    "name": "Inspecting Equipment, Structures, or Materials",
+    "description": "Inspecting equipment, structures, or materials to identify the cause of errors or other problems or defects."
+  },
+  {
+    "element_id": "4.A.1.b.3",
+    "name": "Estimating the Quantifiable Characteristics of Products, Events, or Information",
+    "description": "Estimating sizes, distances, and quantities; or determining time, costs, resources, or materials needed to perform a work activity."
+  },
+  {
+    "element_id": "4.A.2",
+    "name": "Mental Processes",
+    "description": "What processing, planning, problem-solving, decision-making, and innovating activities are performed with job-relevant information?"
+  },
+  {
+    "element_id": "4.A.2.a",
+    "name": "Information and Data Processing",
+    "description": "How is information processed to perform this job?"
+  },
+  {
+    "element_id": "4.A.2.a.1",
+    "name": "Judging the Qualities of Objects, Services, or People",
+    "description": "Assessing the value, importance, or quality of things or people."
+  },
+  {
+    "element_id": "4.A.2.a.2",
+    "name": "Processing Information",
+    "description": "Compiling, coding, categorizing, calculating, tabulating, auditing, or verifying information or data."
+  },
+  {
+    "element_id": "4.A.2.a.3",
+    "name": "Evaluating Information to Determine Compliance with Standards",
+    "description": "Using relevant information and individual judgment to determine whether events or processes comply with laws, regulations, or standards."
+  },
+  {
+    "element_id": "4.A.2.a.4",
+    "name": "Analyzing Data or Information",
+    "description": "Identifying the underlying principles, reasons, or facts of information by breaking down information or data into separate parts."
+  },
+  {
+    "element_id": "4.A.2.b",
+    "name": "Reasoning and Decision Making",
+    "description": "What decisions are made and problems solved in performing this job?"
+  },
+  {
+    "element_id": "4.A.2.b.1",
+    "name": "Making Decisions and Solving Problems",
+    "description": "Analyzing information and evaluating results to choose the best solution and solve problems."
+  },
+  {
+    "element_id": "4.A.2.b.2",
+    "name": "Thinking Creatively",
+    "description": "Developing, designing, or creating new applications, ideas, relationships, systems, or products, including artistic contributions."
+  },
+  {
+    "element_id": "4.A.2.b.3",
+    "name": "Updating and Using Relevant Knowledge",
+    "description": "Keeping up-to-date technically and applying new knowledge to your job."
+  },
+  {
+    "element_id": "4.A.2.b.4",
+    "name": "Developing Objectives and Strategies",
+    "description": "Establishing long-range objectives and specifying the strategies and actions to achieve them."
+  },
+  {
+    "element_id": "4.A.2.b.5",
+    "name": "Scheduling Work and Activities",
+    "description": "Scheduling events, programs, and activities, as well as the work of others."
+  },
+  {
+    "element_id": "4.A.2.b.6",
+    "name": "Organizing, Planning, and Prioritizing Work",
+    "description": "Developing specific goals and plans to prioritize, organize, and accomplish your work."
+  },
+  {
+    "element_id": "4.A.3",
+    "name": "Work Output",
+    "description": "What physical activities are performed, what equipment and vehicles are operated/controlled, and what complex/technical activities are accomplished as job outputs?"
+  },
+  {
+    "element_id": "4.A.3.a",
+    "name": "Performing Physical and Manual Work Activities",
+    "description": "What activities using the body and hands are done to perform this job?"
+  },
+  {
+    "element_id": "4.A.3.a.1",
+    "name": "Performing General Physical Activities",
+    "description": "Performing general physical activities includes doing activities that require considerable use of your arms and legs and moving your whole body, such as climbing, lifting, balancing, walking, stooping, and handling materials."
+  },
+  {
+    "element_id": "4.A.3.a.2",
+    "name": "Handling and Moving Objects",
+    "description": "Using hands and arms in handling, installing, positioning, and moving materials, and manipulating things."
+  },
+  {
+    "element_id": "4.A.3.a.3",
+    "name": "Controlling Machines and Processes",
+    "description": "Using either control mechanisms or direct physical activity to operate machines or processes (not including computers or vehicles)."
+  },
+  {
+    "element_id": "4.A.3.a.4",
+    "name": "Operating Vehicles, Mechanized Devices, or Equipment",
+    "description": "Running, maneuvering, navigating, or driving vehicles or mechanized equipment, such as forklifts, passenger vehicles, aircraft, or watercraft."
+  },
+  {
+    "element_id": "4.A.3.b",
+    "name": "Performing Complex and Technical Activities",
+    "description": "What skilled activities using coordinated movements are done to perform this job?"
+  },
+  {
+    "element_id": "4.A.3.b.1",
+    "name": "Working with Computers",
+    "description": "Using computers and computer systems (including hardware and software) to program, write software, set up functions, enter data, or process information."
+  },
+  {
+    "element_id": "4.A.3.b.2",
+    "name": "Drafting, Laying Out, and Specifying Technical Devices, Parts, and Equipment",
+    "description": "Providing documentation, detailed instructions, drawings, or specifications to tell others about how devices, parts, equipment, or structures are to be fabricated, constructed, assembled, modified, maintained, or used."
+  },
+  {
+    "element_id": "4.A.3.b.4",
+    "name": "Repairing and Maintaining Mechanical Equipment",
+    "description": "Servicing, repairing, adjusting, and testing machines, devices, moving parts, and equipment that operate primarily on the basis of mechanical (not electronic) principles."
+  },
+  {
+    "element_id": "4.A.3.b.5",
+    "name": "Repairing and Maintaining Electronic Equipment",
+    "description": "Servicing, repairing, calibrating, regulating, fine-tuning, or testing machines, devices, and equipment that operate primarily on the basis of electrical or electronic (not mechanical) principles."
+  },
+  {
+    "element_id": "4.A.3.b.6",
+    "name": "Documenting/Recording Information",
+    "description": "Entering, transcribing, recording, storing, or maintaining information in written or electronic/magnetic form."
+  },
+  {
+    "element_id": "4.A.4",
+    "name": "Interacting With Others",
+    "description": "What interactions with other persons or supervisory activities occur while performing this job?"
+  },
+  {
+    "element_id": "4.A.4.a",
+    "name": "Communicating and Interacting",
+    "description": "What interactions with other people occur while performing this job?"
+  },
+  {
+    "element_id": "4.A.4.a.1",
+    "name": "Interpreting the Meaning of Information for Others",
+    "description": "Translating or explaining what information means and how it can be used."
+  },
+  {
+    "element_id": "4.A.4.a.2",
+    "name": "Communicating with Supervisors, Peers, or Subordinates",
+    "description": "Providing information to supervisors, co-workers, and subordinates by telephone, in written form, e-mail, or in person."
+  },
+  {
+    "element_id": "4.A.4.a.3",
+    "name": "Communicating with People Outside the Organization",
+    "description": "Communicating with people outside the organization, representing the organization to customers, the public, government, and other external sources. This information can be exchanged in person, in writing, or by telephone or e-mail."
+  },
+  {
+    "element_id": "4.A.4.a.4",
+    "name": "Establishing and Maintaining Interpersonal Relationships",
+    "description": "Developing constructive and cooperative working relationships with others, and maintaining them over time."
+  },
+  {
+    "element_id": "4.A.4.a.5",
+    "name": "Assisting and Caring for Others",
+    "description": "Providing personal assistance, medical attention, emotional support, or other personal care to others such as coworkers, customers, or patients."
+  },
+  {
+    "element_id": "4.A.4.a.6",
+    "name": "Selling or Influencing Others",
+    "description": "Convincing others to buy merchandise/goods or to otherwise change their minds or actions."
+  },
+  {
+    "element_id": "4.A.4.a.7",
+    "name": "Resolving Conflicts and Negotiating with Others",
+    "description": "Handling complaints, settling disputes, and resolving grievances and conflicts, or otherwise negotiating with others."
+  },
+  {
+    "element_id": "4.A.4.a.8",
+    "name": "Performing for or Working Directly with the Public",
+    "description": "Performing for people or dealing directly with the public. This includes serving customers in restaurants and stores, and receiving clients or guests."
+  },
+  {
+    "element_id": "4.A.4.b",
+    "name": "Coordinating, Developing, Managing, and Advising",
+    "description": "What coordinating, managerial, or advisory activities are done while performing this job?"
+  },
+  {
+    "element_id": "4.A.4.b.1",
+    "name": "Coordinating the Work and Activities of Others",
+    "description": "Getting members of a group to work together to accomplish tasks."
+  },
+  {
+    "element_id": "4.A.4.b.2",
+    "name": "Developing and Building Teams",
+    "description": "Encouraging and building mutual trust, respect, and cooperation among team members."
+  },
+  {
+    "element_id": "4.A.4.b.3",
+    "name": "Training and Teaching Others",
+    "description": "Identifying the educational needs of others, developing formal educational or training programs or classes, and teaching or instructing others."
+  },
+  {
+    "element_id": "4.A.4.b.4",
+    "name": "Guiding, Directing, and Motivating Subordinates",
+    "description": "Providing guidance and direction to subordinates, including setting performance standards and monitoring performance."
+  },
+  {
+    "element_id": "4.A.4.b.5",
+    "name": "Coaching and Developing Others",
+    "description": "Identifying the developmental needs of others and coaching, mentoring, or otherwise helping others to improve their knowledge or skills."
+  },
+  {
+    "element_id": "4.A.4.b.6",
+    "name": "Providing Consultation and Advice to Others",
+    "description": "Providing guidance and expert advice to management or other groups on technical, systems-, or process-related topics."
+  },
+  {
+    "element_id": "4.A.4.c",
+    "name": "Administering",
+    "description": "What administrative, staffing, monitoring, or controlling activities are done while performing this job?"
+  },
+  {
+    "element_id": "4.A.4.c.1",
+    "name": "Performing Administrative Activities",
+    "description": "Performing day-to-day administrative tasks such as maintaining information files and processing paperwork."
+  },
+  {
+    "element_id": "4.A.4.c.2",
+    "name": "Staffing Organizational Units",
+    "description": "Recruiting, interviewing, selecting, hiring, and promoting employees in an organization."
+  },
+  {
+    "element_id": "4.A.4.c.3",
+    "name": "Monitoring and Controlling Resources",
+    "description": "Monitoring and controlling resources and overseeing the spending of money."
+  }
+]
