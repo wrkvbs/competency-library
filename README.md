@@ -116,6 +116,7 @@ cargo run -- score --sample 100
 | Lightcast products & pricing analysis | `01_Projects/Response Scoring Framework/Research/Lightcast Labor Market Data Research.md` |
 | WORKBank / Stanford SALT Lab study | `01_Projects/Response Scoring Framework/Research/Stanford SALT Lab - Future of Work with AI Agents.md` |
 | Master scoring framework | `01_Projects/Response Scoring Framework/Response Scoring & Competency Framework.md` |
+| Assessment methods & reliability science | `01_Projects/Response Scoring Framework/Research/Competency Assessment Methods & Reliability Research.md` |
 | Seniority matching proposal | `01_Projects/Response Scoring Framework/Research/Proposal for a Multidimensional Seniority Matching System.pdf` |
 | Seniority matching visualization | `01_Projects/Response Scoring Framework/Research/Visualizing Multidimensional Seniority Matches in a Chat-Based Candidate Search Interface.pdf` |
 

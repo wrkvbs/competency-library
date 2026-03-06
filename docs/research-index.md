@@ -10,6 +10,7 @@ Master reference for all source material feeding the competency-library.
 | O\*NET / OPM / Smart & Street Research | `notes/01_Projects/Response Scoring Framework/Research/ONET OPM Smart Street Competency Models Research.md` | Comparative analysis of federal competency models and hiring frameworks |
 | Lightcast Research | `notes/01_Projects/Response Scoring Framework/Research/Lightcast Labor Market Data Research.md` | Labor market data, skills taxonomies, open skills API evaluation |
 | Stanford SALT Lab Research | `notes/01_Projects/Response Scoring Framework/Research/Stanford SALT Lab - Future of Work with AI Agents.md` | WORKBank dataset, task-level work analysis, AI impact on occupations |
+| Competency Assessment Methods & Reliability | `notes/01_Projects/Response Scoring Framework/Research/Competency Assessment Methods & Reliability Research.md` | HOW to measure: structured interviews, BARS rubrics, AI scoring validity, psychometrics, calibration methodology, bias detection. Covers Schmidt & Hunter, Sackett 2022, HireVue validation, STAR/BEI, inter-rater reliability metrics (ICC, Kappa, QWK), three-way signal classification, and regulatory landscape. |
 
 ## Internal Research (Notion)
 

@@ -75,15 +75,31 @@ How many levels of hierarchy should the competency library support? O\*NET uses 
 
 ---
 
-## ADR-004: (Placeholder) Scoring Prompt Strategy
+## ADR-004: Scoring Prompt Strategy — One Dimension Per Call
 
-**Date:** TBD
-**Status:** Draft
+**Date:** 2026-03-06
+**Status:** Proposed
 **Context:**
 
-The scoring pipeline (`src/scoring/`) uses LLM prompts to extract competency signals from responses. Key open questions: one prompt per competency vs batched extraction, structured output format, model selection.
+The scoring pipeline (`src/scoring/`) uses LLM prompts to extract competency signals from responses. Key question: one prompt per competency vs batched extraction.
 
-**Decision:** TBD — pending scoring experiments.
+**Decision:**
+
+Score each competency dimension in a **separate LLM call**, not bundled together.
+
+**Rationale (from assessment methods research):**
+
+- The halo effect is the biggest reliability threat in multi-dimension scoring — LLMs give correlated scores across dimensions when evaluated together (Competency Assessment Methods & Reliability Research, Section 5)
+- LLM-as-a-Judge research shows splitting multi-aspect evaluations into separate evaluators and combining results produces better alignment with human judgment (up to 85%, exceeding human-human agreement at 81%)
+- AES research found GPT-4 achieves QWK of .57 with humans at temperature 0.0 — "moderate alignment" — which improves with focused single-dimension prompts
+- Each scoring call must output three-way signal: **positive / negative / absent**. Absent is explicitly not zero — missing data is not a zero score (psychometric principle)
+
+**Consequences:**
+
+- Higher API cost (N calls per response instead of 1)
+- Each competency needs its own BARS-quality rubric with behavioral anchors at each level
+- Calibration pipeline needed: 100+ human-scored responses per dimension, measure ICC/Kappa, target AI-human agreement >= human-human agreement
+- Must pin model versions and monitor for drift
 
 ---
 
@@ -121,7 +137,42 @@ Given a JD, the system:
 
 ---
 
-## ADR-006: (Placeholder) Versioning Strategy for Library Outputs
+## ADR-006: BARS Rubrics + Calibration Pipeline for Scoring Validity
+
+**Date:** 2026-03-06
+**Status:** Proposed
+**Context:**
+
+allUP needs to demonstrate that AI competency scores are valid and reliable enough for hiring decisions. The assessment science literature (Competency Assessment Methods & Reliability Research) provides clear methodology.
+
+**Decision:**
+
+Every competency in the library must have a **Behaviorally Anchored Rating Scale (BARS)** rubric (Level 0-4 with specific observable behavioral indicators), and scoring must be validated against human expert baselines via a calibration pipeline.
+
+**Key design constraints from research:**
+
+1. **Rubric design** — Each level differentiated by observable behaviors, not vague descriptors. "Names concrete conflicting goals" beats "Shows some understanding."
+2. **Calibration set** — 100+ responses per competency scored by 2-3 human experts. Measure human-human agreement (ICC, Kappa). AI-human agreement must meet or exceed human-human agreement.
+3. **Reliability metrics** — Cohen's Kappa >= .60, ICC >= .75, adjacent agreement >= 90%
+4. **Bias monitoring** — Four-fifths rule analysis across demographic proxies. DIF analysis on individual scoring dimensions. Intersectional analysis beyond single-axis comparisons.
+5. **Drift monitoring** — Pin model versions. Re-score calibration set after model changes. Monitor score distributions over time.
+
+**Rationale:**
+
+- Structured interviews (.42 validity) are now the #1 predictor per Sackett et al. (2022), surpassing cognitive ability tests. allUP's format maps to the highest levels of interview structure.
+- HireVue published criterion-related validity of r = .24 (uncorrected) — allUP can exceed this with role-specific competency profiles and BARS-quality rubrics vs. HireVue's generic competencies.
+- EEOC Uniform Guidelines and state laws (NYC Local Law 144, California, Colorado) require demonstrable validity and bias auditing for automated hiring tools.
+
+**Consequences:**
+
+- Library schema must include BARS rubric definitions per competency (not just name + description)
+- Need human expert scoring infrastructure (even a small calibration set is high-value)
+- Scoring outputs must be auditable: input transcript, rubric used, score, evidence citations
+- Builds toward publishable validation study (competitive advantage + regulatory defense)
+
+---
+
+## ADR-007: (Placeholder) Versioning Strategy for Library Outputs
 
 **Date:** TBD
 **Status:** Draft
