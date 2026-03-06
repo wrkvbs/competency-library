@@ -1,0 +1,15 @@
+# Build
+/target/
+
+# Environment
+.env
+
+# Raw downloads (large, re-downloadable)
+datasets/raw/
+
+# Execution outputs
+runs/
+!runs/.gitkeep
+
+# OS
+.DS_Store

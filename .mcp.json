@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "wrk-mcp": {
+      "command": "/Users/ww/.cargo/bin/wrk-mcp",
+      "args": ["-e", "production"]
+    }
+  }
+}

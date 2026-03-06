@@ -1,0 +1,190 @@
+#!/usr/bin/env python3
+"""
+allUP GraphQL Query Script Template
+
+Copy this template and modify the QUERY and process_results() function.
+Save to /tmp/ for one-off scripts.
+
+Usage:
+    uv run --with requests --with pydantic script.py [environment]
+    uv run --with requests --with pydantic script.py staging
+    uv run --with requests --with pydantic script.py production
+"""
+
+import json
+import subprocess
+import sys
+from typing import Any
+
+import requests
+from pydantic import BaseModel
+
+# =============================================================================
+# Configuration
+# =============================================================================
+
+ENV = sys.argv[1] if len(sys.argv) > 1 else "staging"
+
+API_URLS = {
+    "dev": "https://api.dev.wrkvbs.io/3/graphql",
+    "staging": "https://api.staging.wrkvbs.io/3/graphql",
+    "production": "https://api.wrkvbs.io/3/graphql",
+}
+
+
+# =============================================================================
+# Auth Helper
+# =============================================================================
+
+
+def get_token(env: str) -> str:
+    """Get admin auth token via wrk CLI."""
+    result = subprocess.run(
+        ["wrk", "-e", env, "login", "admin", "--print"],
+        capture_output=True,
+        text=True,
+        check=True,
+    )
+    return result.stdout.strip()
+
+
+# =============================================================================
+# GraphQL Client
+# =============================================================================
+
+
+def execute_query(query: str, variables: dict | None = None) -> dict:
+    """Execute a GraphQL query and return the result."""
+    token = get_token(ENV)
+    response = requests.post(
+        API_URLS[ENV],
+        headers={
+            "Authorization": f"Bearer {token}",
+            "Content-Type": "application/json",
+        },
+        json={"query": query, "variables": variables or {}},
+    )
+    response.raise_for_status()
+    result = response.json()
+    if "errors" in result:
+        raise Exception(f"GraphQL errors: {json.dumps(result['errors'], indent=2)}")
+    return result["data"]
+
+
+def paginate(query: str, connection_path: str, variables: dict | None = None):
+    """
+    Iterate through all pages of a paginated query.
+
+    Args:
+        query: GraphQL query with $after variable for cursor
+        connection_path: Dot-separated path to the connection (e.g., "listApplicants")
+        variables: Base variables (will add 'after' automatically)
+
+    Yields:
+        Individual nodes from each page
+
+    Example:
+        query = '''
+            query($after: String) {
+                listApplicants(limit: 100, after: $after) {
+                    nodes { id status }
+                    pageInfo { hasNextPage endCursor }
+                }
+            }
+        '''
+        for applicant in paginate(query, "listApplicants"):
+            print(applicant["id"])
+    """
+    variables = dict(variables or {})
+    cursor = None
+
+    while True:
+        variables["after"] = cursor
+        data = execute_query(query, variables)
+
+        # Navigate to the connection
+        connection = data
+        for key in connection_path.split("."):
+            connection = connection[key]
+
+        # Yield nodes
+        for node in connection["nodes"]:
+            yield node
+
+        # Check for next page
+        page_info = connection["pageInfo"]
+        if not page_info["hasNextPage"]:
+            break
+        cursor = page_info["endCursor"]
+
+
+# =============================================================================
+# Models (optional - define Pydantic models for type safety)
+# =============================================================================
+
+# Example:
+# class Applicant(BaseModel):
+#     id: str
+#     status: str
+#     user_id: str | None = None
+
+
+# =============================================================================
+# Query Definition
+# =============================================================================
+
+QUERY = """
+query($after: String) {
+    listApplicants(limit: 100, after: $after) {
+        nodes {
+            id
+            status
+            user { fullName }
+        }
+        pageInfo {
+            hasNextPage
+            endCursor
+        }
+    }
+}
+"""
+
+
+# =============================================================================
+# Result Processing
+# =============================================================================
+
+
+def process_results():
+    """Process query results. Modify this function for your use case."""
+
+    # Option 1: Simple iteration with pagination
+    count = 0
+    for applicant in paginate(QUERY, "listApplicants"):
+        count += 1
+        print(f"{applicant['id']}: {applicant['status']}")
+    print(f"\nTotal: {count}")
+
+    # Option 2: Single query (no pagination)
+    # data = execute_query(QUERY)
+    # for item in data["listApplicants"]["nodes"]:
+    #     print(item)
+
+    # Option 3: Collect all then process
+    # all_items = list(paginate(QUERY, "listApplicants"))
+    # by_status = {}
+    # for item in all_items:
+    #     status = item["status"]
+    #     by_status.setdefault(status, []).append(item)
+    # for status, items in by_status.items():
+    #     print(f"{status}: {len(items)}")
+
+
+# =============================================================================
+# Main
+# =============================================================================
+
+if __name__ == "__main__":
+    print(f"Environment: {ENV}")
+    print(f"API: {API_URLS[ENV]}\n")
+    process_results()
