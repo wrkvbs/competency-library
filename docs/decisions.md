@@ -87,7 +87,41 @@ The scoring pipeline (`src/scoring/`) uses LLM prompts to extract competency sig
 
 ---
 
-## ADR-005: (Placeholder) Versioning Strategy for Library Outputs
+## ADR-005: JD-to-Search via Competency Library
+
+**Date:** 2026-03-06
+**Status:** Accepted
+**Context:**
+
+allUP needs to connect employers (who have job descriptions) with candidates (who have video responses). Today, search is keyword-based against transcripts. We need a structured matching layer where both sides speak the same language.
+
+**Decision:**
+
+The competency library serves as a **shared vocabulary** between the supply side (candidate scoring) and the demand side (JD parsing). The same competency definitions used to score responses are used to extract requirements from job descriptions.
+
+Given a JD, the system:
+1. Extracts required competencies using LLM + library definitions as grounding
+2. Classifies each as required vs. preferred, with importance weights
+3. Infers seniority signals from scope/responsibility language
+4. Generates a structured search query against candidates' competency scores
+
+**Rationale:**
+
+- Using the library as a controlled vocabulary prevents vocabulary mismatch between JD language and candidate scoring language. "Strong communicator" in a JD maps to the same competency as "demonstrates clear verbal articulation" extracted from a response.
+- Grounding extraction in library definitions (not freeform labels) keeps the search space bounded and rankable.
+- Lightcast's 33k skills taxonomy is especially useful here — JDs reference specific technologies and tools that need to map to the same skill IDs used in candidate profiles.
+- This validates the library design: if a competency can't be meaningfully extracted from both a JD and a video response, it's probably the wrong granularity.
+
+**Consequences:**
+
+- Library definitions must include enough context for LLM-based extraction from both JDs and transcripts.
+- The schema needs fields for "observability" — can this competency be assessed from a video response, from a JD, or both?
+- Search becomes a weighted vector match: JD competency weights x candidate competency scores.
+- JD parsing is a new CLI subcommand and module (`src/jd/` or similar).
+
+---
+
+## ADR-006: (Placeholder) Versioning Strategy for Library Outputs
 
 **Date:** TBD
 **Status:** Draft

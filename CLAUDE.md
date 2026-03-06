@@ -6,6 +6,8 @@ Disposable exploration repo for building a competency scoring system for allUP. 
 
 **Key distinction:** Tags remain allUP's identity layer (how users describe themselves). Competency scores are a new assessment layer (what their responses reveal about their abilities).
 
+**JD-to-Search use case:** The competency library also serves as the shared vocabulary between candidates and employers. Given a job description, extract the competencies it requires (using the library as grounding), then generate a structured search against allUP's candidate pool ranked by competency match. The library must be designed so that the same competency definitions work for both scoring responses (supply side) and parsing JDs (demand side).
+
 ## Architecture
 
 ```

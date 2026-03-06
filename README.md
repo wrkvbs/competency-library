@@ -36,9 +36,11 @@ competency-library/
     │   └── workbank.rs   # WORKBank GitHub data fetch
     ├── library/
     │   └── schema.rs     # Unified competency types (Phase 2)
-    └── scoring/
-        ├── fetch.rs      # Response fetching via wrk-mcp (Phase 3)
-        └── runner.rs     # Scoring pipeline runner (Phase 3)
+    ├── scoring/
+    │   ├── fetch.rs      # Response fetching via wrk-mcp (Phase 3)
+    │   └── runner.rs     # Scoring pipeline runner (Phase 3)
+    └── jd/               # JD parsing + search generation (Phase 4)
+
 ```
 
 ## Phases
@@ -59,6 +61,16 @@ Define a unified competency schema that merges insights from all four sources. M
 ### Phase 3: Scoring
 
 Build a pipeline that fetches allUP candidate responses (via wrk-mcp), scores them against the competency library, and outputs structured competency signals with direction, confidence, and evidence.
+
+### Phase 4: JD-to-Search
+
+Inject a job description, extract the competencies it requires using the library as a controlled vocabulary, and generate a structured search query against allUP's candidate pool. This closes the loop: candidates are scored on competencies (Phase 3), and employers search by competencies (Phase 4) — the library is the shared language between both sides.
+
+The flow:
+1. **JD ingestion** — parse a raw job description (text, URL, or structured input)
+2. **Competency extraction** — map the JD's requirements to competencies in our library (using LLM + library definitions as grounding)
+3. **Search generation** — translate extracted competencies into an allUP search query (weighted by importance, required vs. preferred, seniority signals)
+4. **Candidate ranking** — rank candidates by how well their scored competencies match the JD's requirements
 
 ## CLI Usage
 
