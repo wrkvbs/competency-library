@@ -8,7 +8,12 @@ import {
 	loadOnetWorkStyles,
 	loadOnetWorkActivities,
 	loadOpmCompetencies,
-	loadWorkbankTasks
+	loadWorkbankTasks,
+	loadPromptTags,
+	loadAllUpPrompts,
+	loadUserProfiles,
+	loadResponses,
+	loadResumes
 } from '$lib/data.server';
 import type { PageServerLoad } from './$types';
 
@@ -37,6 +42,12 @@ export const load: PageServerLoad = async () => {
 	const onetWorkActivities = loadOnetWorkActivities();
 	const opmCompetencies = loadOpmCompetencies();
 	const workbankTasks = loadWorkbankTasks();
+
+	const promptTags = loadPromptTags();
+	const allUpPrompts = loadAllUpPrompts();
+	const userProfiles = loadUserProfiles();
+	const responses = loadResponses();
+	const resumes = loadResumes();
 
 	// Build heatmap data from latest run
 	const heatmapRows: Array<{
@@ -93,7 +104,12 @@ export const load: PageServerLoad = async () => {
 			onetWorkStyles: onetWorkStyles.length,
 			onetWorkActivities: onetWorkActivities.length,
 			opmCompetencies: opmCompetencies.length,
-			workbankTasks: workbankTasks.length
+			workbankTasks: workbankTasks.length,
+			promptTags: promptTags.length,
+			allUpPrompts: allUpPrompts.length,
+			userProfiles: userProfiles.length,
+			responses: responses.length,
+			resumes: resumes.length
 		},
 		latestRun: latestRun
 			? {

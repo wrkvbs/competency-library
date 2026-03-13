@@ -16,7 +16,17 @@ import type {
 	OpmCompetency,
 	EscoSkill,
 	EscoSkillGroup,
-	WorkbankTask
+	WorkbankTask,
+	PromptTag,
+	PromptTagFile,
+	AllUpPrompt,
+	PromptFile,
+	UserProfile,
+	UserProfileFile,
+	PromptResponse,
+	ResponseFile,
+	Resume,
+	ResumeFile
 } from './types';
 
 // Repo root is one level up from ui/
@@ -141,4 +151,38 @@ export function loadEscoSkillGroups(): EscoSkillGroup[] {
 
 export function loadWorkbankTasks(): WorkbankTask[] {
 	return readJson<WorkbankTask[]>(join(PROCESSED, 'workbank-tasks.json'), []);
+}
+
+// ---------------------------------------------------------------------------
+// allUP Production Data
+// ---------------------------------------------------------------------------
+
+export function loadPromptTags(): PromptTag[] {
+	const file = readJson<PromptTagFile | null>(join(RAW_ALLUP, 'prompt-tags.json'), null);
+	return file?.tags ?? [];
+}
+
+export function loadAllUpPrompts(): AllUpPrompt[] {
+	const file = readJson<PromptFile | null>(join(RAW_ALLUP, 'prompts.json'), null);
+	return file?.prompts ?? [];
+}
+
+export function loadUserProfiles(): UserProfile[] {
+	const file = readJson<UserProfileFile | null>(join(RAW_ALLUP, 'user-profiles.json'), null);
+	const profiles = file?.profiles ?? [];
+	// Strip "user:" prefix from userId for consistency with response data
+	for (const p of profiles) {
+		if (p.userId.startsWith('user:')) p.userId = p.userId.slice(5);
+	}
+	return profiles;
+}
+
+export function loadResponses(): PromptResponse[] {
+	const file = readJson<ResponseFile | null>(join(RAW_ALLUP, 'responses.json'), null);
+	return file?.responses ?? [];
+}
+
+export function loadResumes(): Resume[] {
+	const file = readJson<ResumeFile | null>(join(RAW_ALLUP, 'resumes.json'), null);
+	return file?.resumes ?? [];
 }

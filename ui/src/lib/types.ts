@@ -176,3 +176,120 @@ export interface WorkbankTask {
 	ai_capability_mean: number | null;
 	human_agency_level: string;
 }
+
+// ---------------------------------------------------------------------------
+// allUP Production Data
+// ---------------------------------------------------------------------------
+
+export interface PromptTag {
+	id: string;
+	tag: string;
+	description: string | null;
+	internalDescription: string | null;
+	category: string;
+	userSelectable: boolean;
+	structural: boolean;
+	parentTagId: string | null;
+	definesCategory: boolean;
+	visibleOnProfile: boolean;
+	featuredRole: boolean;
+	color: string | null;
+	synonyms: string[];
+	promptCount: number;
+	properties: Record<string, unknown> | null;
+	childTags: Array<{ id: string; tag: string; category: string }>;
+}
+
+export interface PromptTagFile {
+	fetched_at: string;
+	count: number;
+	tags: PromptTag[];
+}
+
+export interface AllUpPrompt {
+	id: string;
+	promptType: string;
+	subjectType: string;
+	selfText: string | null;
+	otherUserText: string | null;
+	tagIds: string[];
+	topicTagIds: string[];
+	order: number | null;
+	priority: number | null;
+	suggested: boolean;
+	useForInterviewGeneration: boolean;
+	relationshipTypes: string[];
+	recommendedDuration: number | null;
+	maximumDuration: number | null;
+	purpose: string | null;
+}
+
+export interface PromptFile {
+	fetched_at: string;
+	count: number;
+	prompts: AllUpPrompt[];
+}
+
+export interface Affiliation {
+	id: string;
+	organization: { id: string; name: string; shortDescription: string | null; location: string | null };
+	title: string | null;
+	startedAt: string | null;
+	endedAt: string | null;
+	status: string;
+}
+
+export interface UserProfile {
+	userId: string;
+	fullName: string;
+	shortName: string | null;
+	headline: string | null;
+	pronouns: { form: string; subjective: string; objective: string; posessive: string } | null;
+	slug: string | null;
+	createdAt: string;
+	trending: boolean;
+	promptTags: Array<{ id: string; tag: string; category: string }>;
+	affiliations: Affiliation[];
+	intentFlags: Array<{ intentFlagId: string; text: string; color: string | null; expiresAt: string | null }>;
+	socialLinks: Array<{ socialLinkId: string; name: string; username: string | null; url: string | null }>;
+}
+
+export interface UserProfileFile {
+	fetched_at: string;
+	count: number;
+	profiles: UserProfile[];
+}
+
+export interface PromptResponse {
+	id: string;
+	promptId: string;
+	subjectId: string;
+	responderUserId: string;
+	approval: string;
+	visibility: string;
+	promptText: string | null;
+	transcript: { text: string | null } | null;
+	responder: { fullName: string } | null;
+	tagIds: string[];
+	topicIds: string[];
+	createdAt: string;
+}
+
+export interface ResponseFile {
+	fetched_at: string;
+	count: number;
+	responses: PromptResponse[];
+}
+
+export interface Resume {
+	id: string;
+	userId: string;
+	assetId: string | null;
+	url: string | null;
+}
+
+export interface ResumeFile {
+	fetched_at: string;
+	count: number;
+	resumes: Resume[];
+}

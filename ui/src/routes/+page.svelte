@@ -233,6 +233,45 @@
 		</section>
 	{/if}
 
+	<!-- allUP Production Data -->
+	<section>
+		<h3 class="mb-3 text-sm font-semibold uppercase tracking-wider text-gray-500">
+			allUP Production Data
+		</h3>
+		<div class="grid grid-cols-5 gap-3">
+			<a href="/users" class="rounded-lg border border-gray-800 bg-gray-900 p-3 transition-colors hover:border-gray-700">
+				<p class="text-2xl font-bold text-white">
+					{data.counts.userProfiles > 0 ? data.counts.userProfiles.toLocaleString() : '--'}
+				</p>
+				<p class="text-xs text-gray-400">Users</p>
+			</a>
+			<div class="rounded-lg border border-gray-800 bg-gray-900 p-3">
+				<p class="text-2xl font-bold text-white">
+					{data.counts.responses > 0 ? data.counts.responses.toLocaleString() : '--'}
+				</p>
+				<p class="text-xs text-gray-400">Responses</p>
+			</div>
+			<a href="/tags" class="rounded-lg border border-gray-800 bg-gray-900 p-3 transition-colors hover:border-gray-700">
+				<p class="text-2xl font-bold text-white">
+					{data.counts.promptTags > 0 ? data.counts.promptTags.toLocaleString() : '--'}
+				</p>
+				<p class="text-xs text-gray-400">Tags</p>
+			</a>
+			<a href="/prompts" class="rounded-lg border border-gray-800 bg-gray-900 p-3 transition-colors hover:border-gray-700">
+				<p class="text-2xl font-bold text-white">
+					{data.counts.allUpPrompts > 0 ? data.counts.allUpPrompts.toLocaleString() : '--'}
+				</p>
+				<p class="text-xs text-gray-400">Prompts</p>
+			</a>
+			<div class="rounded-lg border border-gray-800 bg-gray-900 p-3">
+				<p class="text-2xl font-bold text-white">
+					{data.counts.resumes > 0 ? data.counts.resumes.toLocaleString() : '--'}
+				</p>
+				<p class="text-xs text-gray-400">Resumes</p>
+			</div>
+		</div>
+	</section>
+
 	<!-- Taxonomy Sources -->
 	<section>
 		<h3 class="mb-3 text-sm font-semibold uppercase tracking-wider text-gray-500">

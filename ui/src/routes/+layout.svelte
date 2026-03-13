@@ -13,6 +13,12 @@
 		{ href: '/skills', label: 'Skills' }
 	];
 
+	const allupNav = [
+		{ href: '/tags', label: 'Tags' },
+		{ href: '/prompts', label: 'Prompts' },
+		{ href: '/users', label: 'Users' }
+	];
+
 	function isActive(href: string): boolean {
 		if (href === '/') return page.url.pathname === '/';
 		return page.url.pathname.startsWith(href);
@@ -32,6 +38,17 @@
 		</div>
 		<div class="flex flex-col gap-1 p-3">
 			{#each nav as item}
+				<a
+					href={item.href}
+					class="rounded-md px-3 py-2 text-sm font-medium transition-colors hover:bg-gray-800 hover:text-white
+						{isActive(item.href) ? 'bg-gray-800 text-white' : 'text-gray-400'}"
+				>
+					{item.label}
+				</a>
+			{/each}
+			<div class="my-2 border-t border-gray-800"></div>
+			<span class="px-3 py-1 text-xs font-semibold uppercase tracking-wider text-gray-600">allUP Data</span>
+			{#each allupNav as item}
 				<a
 					href={item.href}
 					class="rounded-md px-3 py-2 text-sm font-medium transition-colors hover:bg-gray-800 hover:text-white
