@@ -1,4 +1,4 @@
-use std::collections::HashMap;
+use std::collections::{HashMap, HashSet};
 use std::fs;
 use std::io;
 use std::path::Path;
@@ -62,6 +62,31 @@ pub struct WorkActivity {
     pub element_id: String,
     pub name: String,
     pub description: String,
+}
+
+#[derive(Debug, Clone, Serialize, Deserialize)]
+pub struct TechSkill {
+    pub name: String,
+    pub commodity_code: String,
+    pub commodity_title: String,
+    pub class_title: String,
+    pub family_title: String,
+    pub segment_title: String,
+    pub hot_technology: bool,
+    pub in_demand: bool,
+    pub occupation_count: u32,
+}
+
+#[derive(Debug, Clone, Serialize, Deserialize)]
+pub struct UnspscCategory {
+    pub commodity_code: String,
+    pub commodity_title: String,
+    pub class_code: String,
+    pub class_title: String,
+    pub family_code: String,
+    pub family_title: String,
+    pub segment_code: String,
+    pub segment_title: String,
 }
 
 // ---------------------------------------------------------------------------
@@ -162,6 +187,11 @@ pub fn process(data_dir: &Path) -> Result<()> {
     // 6. Work Activities — elements starting with "4.A."
     let work_activities = build_simple_elements(&cmr, &["4.A."]);
     write_json(&out_dir.join("onet-work-activities.json"), &work_activities)?;
+
+    // 7. Technology Skills + UNSPSC categories
+    let (tech_skills, unspsc) = build_tech_skills(&raw_dir)?;
+    write_json(&out_dir.join("onet-tech-skills.json"), &tech_skills)?;
+    write_json(&out_dir.join("onet-unspsc.json"), &unspsc)?;
 
     eprintln!("O*NET processing complete → {}", out_dir.display());
     Ok(())
@@ -343,6 +373,141 @@ fn build_simple_elements(cmr: &[ContentModelElement], prefixes: &[&str]) -> Vec<
         .collect();
     items.sort_by(|a, b| a.element_id.cmp(&b.element_id));
     items
+}
+
+/// Build tech skills (deduplicated across occupations) and UNSPSC categories
+/// (filtered to only tech-relevant commodity codes).
+fn build_tech_skills(raw_dir: &Path) -> Result<(Vec<TechSkill>, Vec<UnspscCategory>)> {
+    // Load UNSPSC reference into a lookup by commodity code
+    let unspsc_map = load_unspsc_reference(raw_dir)?;
+
+    // Read Technology Skills.txt
+    let path = raw_dir.join("Technology Skills.txt");
+    let mut rdr = csv::ReaderBuilder::new()
+        .delimiter(b'\t')
+        .from_path(&path)
+        .with_context(|| format!("opening {}", path.display()))?;
+
+    let headers = rdr.headers().context("reading Technology Skills headers")?.clone();
+    let onet_soc_idx = col_index(&headers, "O*NET-SOC Code")?;
+    let example_idx = col_index(&headers, "Example")?;
+    let commodity_code_idx = col_index(&headers, "Commodity Code")?;
+    let hot_tech_idx = col_index(&headers, "Hot Technology")?;
+    let in_demand_idx = col_index(&headers, "In Demand")?;
+
+    // Key: (name, commodity_code) -> aggregation state
+    struct Agg {
+        hot_technology: bool,
+        in_demand: bool,
+        occupations: HashSet<String>,
+    }
+
+    let mut map: HashMap<(String, String), Agg> = HashMap::new();
+
+    for result in rdr.records() {
+        let record = result.context("reading Technology Skills row")?;
+        let soc_code = record.get(onet_soc_idx).unwrap_or("").trim().to_string();
+        let name = record.get(example_idx).unwrap_or("").trim().to_string();
+        let commodity_code = record.get(commodity_code_idx).unwrap_or("").trim().to_string();
+        let hot = record.get(hot_tech_idx).unwrap_or("").trim() == "Y";
+        let demand = record.get(in_demand_idx).unwrap_or("").trim() == "Y";
+
+        if name.is_empty() || commodity_code.is_empty() {
+            continue;
+        }
+
+        let key = (name.clone(), commodity_code.clone());
+        let entry = map.entry(key).or_insert_with(|| Agg {
+            hot_technology: false,
+            in_demand: false,
+            occupations: HashSet::new(),
+        });
+        entry.hot_technology = entry.hot_technology || hot;
+        entry.in_demand = entry.in_demand || demand;
+        entry.occupations.insert(soc_code);
+    }
+
+    // Collect commodity codes that appear in tech skills (owned, so we can consume map)
+    let tech_commodity_codes: HashSet<String> = map.keys().map(|(_, c)| c.clone()).collect();
+
+    // Build TechSkill vec
+    let mut tech_skills: Vec<TechSkill> = map
+        .into_iter()
+        .map(|((name, commodity_code), agg)| {
+            let unspsc = unspsc_map.get(commodity_code.as_str());
+            TechSkill {
+                name,
+                commodity_code: commodity_code.clone(),
+                commodity_title: unspsc.map_or_else(String::new, |u| u.commodity_title.clone()),
+                class_title: unspsc.map_or_else(String::new, |u| u.class_title.clone()),
+                family_title: unspsc.map_or_else(String::new, |u| u.family_title.clone()),
+                segment_title: unspsc.map_or_else(String::new, |u| u.segment_title.clone()),
+                hot_technology: agg.hot_technology,
+                in_demand: agg.in_demand,
+                occupation_count: agg.occupations.len() as u32,
+            }
+        })
+        .collect();
+
+    tech_skills.sort_by(|a, b| a.name.to_lowercase().cmp(&b.name.to_lowercase()));
+
+    // Filter UNSPSC to tech-relevant categories
+    let mut unspsc: Vec<UnspscCategory> = unspsc_map
+        .into_values()
+        .filter(|u| tech_commodity_codes.contains(&u.commodity_code))
+        .collect();
+    unspsc.sort_by(|a, b| a.commodity_code.cmp(&b.commodity_code));
+
+    eprintln!(
+        "  tech skills: {} unique, UNSPSC categories: {} (tech-relevant)",
+        tech_skills.len(),
+        unspsc.len()
+    );
+
+    Ok((tech_skills, unspsc))
+}
+
+/// Load UNSPSC Reference.txt into a HashMap keyed by commodity code.
+fn load_unspsc_reference(raw_dir: &Path) -> Result<HashMap<String, UnspscCategory>> {
+    let path = raw_dir.join("UNSPSC Reference.txt");
+    let mut rdr = csv::ReaderBuilder::new()
+        .delimiter(b'\t')
+        .from_path(&path)
+        .with_context(|| format!("opening {}", path.display()))?;
+
+    let headers = rdr.headers().context("reading UNSPSC Reference headers")?.clone();
+    let commodity_code_idx = col_index(&headers, "Commodity Code")?;
+    let commodity_title_idx = col_index(&headers, "Commodity Title")?;
+    let class_code_idx = col_index(&headers, "Class Code")?;
+    let class_title_idx = col_index(&headers, "Class Title")?;
+    let family_code_idx = col_index(&headers, "Family Code")?;
+    let family_title_idx = col_index(&headers, "Family Title")?;
+    let segment_code_idx = col_index(&headers, "Segment Code")?;
+    let segment_title_idx = col_index(&headers, "Segment Title")?;
+
+    let mut map = HashMap::new();
+    for result in rdr.records() {
+        let record = result.context("reading UNSPSC Reference row")?;
+        let commodity_code = record.get(commodity_code_idx).unwrap_or("").trim().to_string();
+        if commodity_code.is_empty() {
+            continue;
+        }
+        map.insert(
+            commodity_code.clone(),
+            UnspscCategory {
+                commodity_code,
+                commodity_title: record.get(commodity_title_idx).unwrap_or("").trim().to_string(),
+                class_code: record.get(class_code_idx).unwrap_or("").trim().to_string(),
+                class_title: record.get(class_title_idx).unwrap_or("").trim().to_string(),
+                family_code: record.get(family_code_idx).unwrap_or("").trim().to_string(),
+                family_title: record.get(family_title_idx).unwrap_or("").trim().to_string(),
+                segment_code: record.get(segment_code_idx).unwrap_or("").trim().to_string(),
+                segment_title: record.get(segment_title_idx).unwrap_or("").trim().to_string(),
+            },
+        );
+    }
+
+    Ok(map)
 }
 
 fn col_index(headers: &csv::StringRecord, name: &str) -> Result<usize> {

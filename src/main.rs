@@ -36,6 +36,8 @@ enum DownloadSource {
     Workbank,
     /// Fetch Lightcast skills via API (requires .env credentials)
     Lightcast,
+    /// Download ESCO v1.2 skills taxonomy
+    Esco,
 }
 
 #[derive(Subcommand)]
@@ -48,6 +50,8 @@ enum ProcessSource {
     Workbank,
     /// Process cached Lightcast response into JSON
     Lightcast,
+    /// Process ESCO CSVs into JSON
+    Esco,
     /// Process all datasets
     All,
 }
@@ -79,6 +83,10 @@ async fn main() -> Result<()> {
                 println!("Downloading Lightcast skills...");
                 datasets::lightcast::download(&dir).await?;
             }
+            DownloadSource::Esco => {
+                println!("Downloading ESCO...");
+                datasets::esco::download(&dir).await?;
+            }
         },
         Command::Process { source } => match source {
             ProcessSource::Onet => {
@@ -97,6 +105,10 @@ async fn main() -> Result<()> {
                 println!("Processing Lightcast...");
                 datasets::lightcast::process(&dir)?;
             }
+            ProcessSource::Esco => {
+                println!("Processing ESCO...");
+                datasets::esco::process(&dir)?;
+            }
             ProcessSource::All => {
                 println!("Processing all datasets...");
                 if let Err(e) = datasets::onet::process(&dir) {
@@ -110,6 +122,9 @@ async fn main() -> Result<()> {
                 }
                 if let Err(e) = datasets::lightcast::process(&dir) {
                     eprintln!("Lightcast processing failed: {e:#}");
+                }
+                if let Err(e) = datasets::esco::process(&dir) {
+                    eprintln!("ESCO processing failed: {e:#}");
                 }
                 println!("Done.");
             }

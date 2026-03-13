@@ -1,0 +1,1372 @@
+[
+  {
+    "commodity_code": "43231501",
+    "commodity_title": "Helpdesk or call center software",
+    "class_code": "43231500",
+    "class_title": "Business function specific software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43231503",
+    "commodity_title": "Procurement software",
+    "class_code": "43231500",
+    "class_title": "Business function specific software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43231505",
+    "commodity_title": "Human resources software",
+    "class_code": "43231500",
+    "class_title": "Business function specific software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43231506",
+    "commodity_title": "Materials requirements planning logistics and supply chain software",
+    "class_code": "43231500",
+    "class_title": "Business function specific software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43231507",
+    "commodity_title": "Project management software",
+    "class_code": "43231500",
+    "class_title": "Business function specific software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43231508",
+    "commodity_title": "Inventory management software",
+    "class_code": "43231500",
+    "class_title": "Business function specific software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43231509",
+    "commodity_title": "Bar coding software",
+    "class_code": "43231500",
+    "class_title": "Business function specific software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43231510",
+    "commodity_title": "Label making software",
+    "class_code": "43231500",
+    "class_title": "Business function specific software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43231511",
+    "commodity_title": "Expert system software",
+    "class_code": "43231500",
+    "class_title": "Business function specific software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43231512",
+    "commodity_title": "License management software",
+    "class_code": "43231500",
+    "class_title": "Business function specific software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43231513",
+    "commodity_title": "Office suite software",
+    "class_code": "43231500",
+    "class_title": "Business function specific software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43231514",
+    "commodity_title": "Sales and marketing software",
+    "class_code": "43231500",
+    "class_title": "Business function specific software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43231515",
+    "commodity_title": "Mailing and shipping software",
+    "class_code": "43231500",
+    "class_title": "Business function specific software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43231516",
+    "commodity_title": "Audit software",
+    "class_code": "43231500",
+    "class_title": "Business function specific software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43231517",
+    "commodity_title": "Procedure management software",
+    "class_code": "43231500",
+    "class_title": "Business function specific software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43231518",
+    "commodity_title": "Process mapping and design software",
+    "class_code": "43231500",
+    "class_title": "Business function specific software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43231601",
+    "commodity_title": "Accounting software",
+    "class_code": "43231600",
+    "class_title": "Finance accounting and enterprise resource planning ERP software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43231602",
+    "commodity_title": "Enterprise resource planning ERP software",
+    "class_code": "43231600",
+    "class_title": "Finance accounting and enterprise resource planning ERP software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43231603",
+    "commodity_title": "Tax preparation software",
+    "class_code": "43231600",
+    "class_title": "Finance accounting and enterprise resource planning ERP software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43231604",
+    "commodity_title": "Financial analysis software",
+    "class_code": "43231600",
+    "class_title": "Finance accounting and enterprise resource planning ERP software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43231605",
+    "commodity_title": "Time accounting software",
+    "class_code": "43231600",
+    "class_title": "Finance accounting and enterprise resource planning ERP software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43231607",
+    "commodity_title": "Billing and invoicing software",
+    "class_code": "43231600",
+    "class_title": "Finance accounting and enterprise resource planning ERP software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232001",
+    "commodity_title": "Action games",
+    "class_code": "43232000",
+    "class_title": "Computer game or entertainment software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232005",
+    "commodity_title": "Music or sound editing software",
+    "class_code": "43232000",
+    "class_title": "Computer game or entertainment software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232101",
+    "commodity_title": "Pattern design software",
+    "class_code": "43232100",
+    "class_title": "Content authoring and editing software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232102",
+    "commodity_title": "Graphics or photo imaging software",
+    "class_code": "43232100",
+    "class_title": "Content authoring and editing software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232103",
+    "commodity_title": "Video creation and editing software",
+    "class_code": "43232100",
+    "class_title": "Content authoring and editing software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232104",
+    "commodity_title": "Word processing software",
+    "class_code": "43232100",
+    "class_title": "Content authoring and editing software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232105",
+    "commodity_title": "Charting software",
+    "class_code": "43232100",
+    "class_title": "Content authoring and editing software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232106",
+    "commodity_title": "Presentation software",
+    "class_code": "43232100",
+    "class_title": "Content authoring and editing software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232107",
+    "commodity_title": "Web page creation and editing software",
+    "class_code": "43232100",
+    "class_title": "Content authoring and editing software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232108",
+    "commodity_title": "Calendar and scheduling software",
+    "class_code": "43232100",
+    "class_title": "Content authoring and editing software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232110",
+    "commodity_title": "Spreadsheet software",
+    "class_code": "43232100",
+    "class_title": "Content authoring and editing software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232111",
+    "commodity_title": "Optical character reader OCR or scanning software",
+    "class_code": "43232100",
+    "class_title": "Content authoring and editing software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232112",
+    "commodity_title": "Desktop publishing software",
+    "class_code": "43232100",
+    "class_title": "Content authoring and editing software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232201",
+    "commodity_title": "Content workflow software",
+    "class_code": "43232200",
+    "class_title": "Content management software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232202",
+    "commodity_title": "Document management software",
+    "class_code": "43232200",
+    "class_title": "Content management software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232203",
+    "commodity_title": "File versioning software",
+    "class_code": "43232200",
+    "class_title": "Content management software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232301",
+    "commodity_title": "Categorization or classification software",
+    "class_code": "43232300",
+    "class_title": "Data management and query software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232302",
+    "commodity_title": "Clustering software",
+    "class_code": "43232300",
+    "class_title": "Data management and query software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232303",
+    "commodity_title": "Customer relationship management CRM software",
+    "class_code": "43232300",
+    "class_title": "Data management and query software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232304",
+    "commodity_title": "Data base management system software",
+    "class_code": "43232300",
+    "class_title": "Data management and query software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232305",
+    "commodity_title": "Data base reporting software",
+    "class_code": "43232300",
+    "class_title": "Data management and query software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232306",
+    "commodity_title": "Data base user interface and query software",
+    "class_code": "43232300",
+    "class_title": "Data management and query software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232307",
+    "commodity_title": "Data mining software",
+    "class_code": "43232300",
+    "class_title": "Data management and query software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232309",
+    "commodity_title": "Information retrieval or search software",
+    "class_code": "43232300",
+    "class_title": "Data management and query software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232310",
+    "commodity_title": "Metadata management software",
+    "class_code": "43232300",
+    "class_title": "Data management and query software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232311",
+    "commodity_title": "Object oriented data base management software",
+    "class_code": "43232300",
+    "class_title": "Data management and query software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232312",
+    "commodity_title": "Portal server software",
+    "class_code": "43232300",
+    "class_title": "Data management and query software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232313",
+    "commodity_title": "Transaction server software",
+    "class_code": "43232300",
+    "class_title": "Data management and query software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232314",
+    "commodity_title": "Business intelligence and data analysis software",
+    "class_code": "43232300",
+    "class_title": "Data management and query software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232401",
+    "commodity_title": "Configuration management software",
+    "class_code": "43232400",
+    "class_title": "Development software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232402",
+    "commodity_title": "Development environment software",
+    "class_code": "43232400",
+    "class_title": "Development software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232403",
+    "commodity_title": "Enterprise application integration software",
+    "class_code": "43232400",
+    "class_title": "Development software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232404",
+    "commodity_title": "Graphical user interface development software",
+    "class_code": "43232400",
+    "class_title": "Development software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232405",
+    "commodity_title": "Object or component oriented development software",
+    "class_code": "43232400",
+    "class_title": "Development software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232406",
+    "commodity_title": "Program testing software",
+    "class_code": "43232400",
+    "class_title": "Development software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232407",
+    "commodity_title": "Requirements analysis and system architecture software",
+    "class_code": "43232400",
+    "class_title": "Development software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232408",
+    "commodity_title": "Web platform development software",
+    "class_code": "43232400",
+    "class_title": "Development software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232409",
+    "commodity_title": "Compiler and decompiler software",
+    "class_code": "43232400",
+    "class_title": "Development software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232501",
+    "commodity_title": "Foreign language software",
+    "class_code": "43232500",
+    "class_title": "Educational or reference software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232502",
+    "commodity_title": "Computer based training software",
+    "class_code": "43232500",
+    "class_title": "Educational or reference software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232503",
+    "commodity_title": "Spell checkers",
+    "class_code": "43232500",
+    "class_title": "Educational or reference software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232504",
+    "commodity_title": "Route navigation software",
+    "class_code": "43232500",
+    "class_title": "Educational or reference software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232505",
+    "commodity_title": "Multi-media educational software",
+    "class_code": "43232500",
+    "class_title": "Educational or reference software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232507",
+    "commodity_title": "Dictionary software",
+    "class_code": "43232500",
+    "class_title": "Educational or reference software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232509",
+    "commodity_title": "Voice synthesizer and recognition software",
+    "class_code": "43232500",
+    "class_title": "Educational or reference software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232510",
+    "commodity_title": "Geographic information system",
+    "class_code": "43232500",
+    "class_title": "Educational or reference software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232601",
+    "commodity_title": "Aviation ground support software",
+    "class_code": "43232600",
+    "class_title": "Industry specific software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232603",
+    "commodity_title": "Facilities management software",
+    "class_code": "43232600",
+    "class_title": "Industry specific software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232604",
+    "commodity_title": "Computer aided design CAD software",
+    "class_code": "43232600",
+    "class_title": "Industry specific software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232605",
+    "commodity_title": "Analytical or scientific software",
+    "class_code": "43232600",
+    "class_title": "Industry specific software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232606",
+    "commodity_title": "Compliance software",
+    "class_code": "43232600",
+    "class_title": "Industry specific software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232607",
+    "commodity_title": "Flight control software",
+    "class_code": "43232600",
+    "class_title": "Industry specific software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232608",
+    "commodity_title": "Industrial control software",
+    "class_code": "43232600",
+    "class_title": "Industry specific software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232609",
+    "commodity_title": "Library software",
+    "class_code": "43232600",
+    "class_title": "Industry specific software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232610",
+    "commodity_title": "Medical software",
+    "class_code": "43232600",
+    "class_title": "Industry specific software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232611",
+    "commodity_title": "Point of sale POS software",
+    "class_code": "43232600",
+    "class_title": "Industry specific software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232612",
+    "commodity_title": "Computer aided manufacturing CAM software",
+    "class_code": "43232600",
+    "class_title": "Industry specific software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232613",
+    "commodity_title": "Manufacturing execution system MES software",
+    "class_code": "43232600",
+    "class_title": "Industry specific software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232614",
+    "commodity_title": "Computer aided design CAD and computer aided manufacturing CAM system",
+    "class_code": "43232600",
+    "class_title": "Industry specific software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232616",
+    "commodity_title": "Legal management software",
+    "class_code": "43232600",
+    "class_title": "Industry specific software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232620",
+    "commodity_title": "Risk management data and analysis software",
+    "class_code": "43232600",
+    "class_title": "Industry specific software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232701",
+    "commodity_title": "Application server software",
+    "class_code": "43232700",
+    "class_title": "Network applications software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232702",
+    "commodity_title": "Desktop communications software",
+    "class_code": "43232700",
+    "class_title": "Network applications software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232703",
+    "commodity_title": "Interactive voice response software",
+    "class_code": "43232700",
+    "class_title": "Network applications software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232704",
+    "commodity_title": "Internet directory services software",
+    "class_code": "43232700",
+    "class_title": "Network applications software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232705",
+    "commodity_title": "Internet browser software",
+    "class_code": "43232700",
+    "class_title": "Network applications software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232801",
+    "commodity_title": "Network monitoring software",
+    "class_code": "43232800",
+    "class_title": "Network management software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232802",
+    "commodity_title": "Network operating system enhancement software",
+    "class_code": "43232800",
+    "class_title": "Network management software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232803",
+    "commodity_title": "Optical network management software",
+    "class_code": "43232800",
+    "class_title": "Network management software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232804",
+    "commodity_title": "Administration software",
+    "class_code": "43232800",
+    "class_title": "Network management software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232805",
+    "commodity_title": "Internet protocol IP multimedia subsystem software",
+    "class_code": "43232800",
+    "class_title": "Network management software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232806",
+    "commodity_title": "Cloud-based management software",
+    "class_code": "43232800",
+    "class_title": "Network management software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232901",
+    "commodity_title": "Access software",
+    "class_code": "43232900",
+    "class_title": "Networking software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232902",
+    "commodity_title": "Communications server software",
+    "class_code": "43232900",
+    "class_title": "Networking software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232903",
+    "commodity_title": "Contact center software",
+    "class_code": "43232900",
+    "class_title": "Networking software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232904",
+    "commodity_title": "Fax software",
+    "class_code": "43232900",
+    "class_title": "Networking software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232905",
+    "commodity_title": "LAN software",
+    "class_code": "43232900",
+    "class_title": "Networking software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232907",
+    "commodity_title": "Storage networking software",
+    "class_code": "43232900",
+    "class_title": "Networking software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232908",
+    "commodity_title": "Switch or router software",
+    "class_code": "43232900",
+    "class_title": "Networking software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232909",
+    "commodity_title": "WAN switching software and firmware",
+    "class_code": "43232900",
+    "class_title": "Networking software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232910",
+    "commodity_title": "Wireless software",
+    "class_code": "43232900",
+    "class_title": "Networking software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232911",
+    "commodity_title": "Network connectivity terminal emulation software",
+    "class_code": "43232900",
+    "class_title": "Networking software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232912",
+    "commodity_title": "Gateway software",
+    "class_code": "43232900",
+    "class_title": "Networking software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232913",
+    "commodity_title": "Bridge software",
+    "class_code": "43232900",
+    "class_title": "Networking software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232915",
+    "commodity_title": "Platform interconnectivity software",
+    "class_code": "43232900",
+    "class_title": "Networking software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43232917",
+    "commodity_title": "Software defined networking/ virtualization software",
+    "class_code": "43232900",
+    "class_title": "Networking software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43233001",
+    "commodity_title": "Filesystem software",
+    "class_code": "43233000",
+    "class_title": "Operating environment software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43233002",
+    "commodity_title": "Network operation system software",
+    "class_code": "43233000",
+    "class_title": "Operating environment software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43233004",
+    "commodity_title": "Operating system software",
+    "class_code": "43233000",
+    "class_title": "Operating environment software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43233007",
+    "commodity_title": "Computer imaging software",
+    "class_code": "43233000",
+    "class_title": "Operating environment software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43233201",
+    "commodity_title": "Authentication server software",
+    "class_code": "43233200",
+    "class_title": "Security and protection software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43233203",
+    "commodity_title": "Network security or virtual private network VPN management software",
+    "class_code": "43233200",
+    "class_title": "Security and protection software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43233204",
+    "commodity_title": "Network security and virtual private network VPN equipment software",
+    "class_code": "43233200",
+    "class_title": "Security and protection software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43233205",
+    "commodity_title": "Transaction security and virus protection software",
+    "class_code": "43233200",
+    "class_title": "Security and protection software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43233206",
+    "commodity_title": "Cloud-based protection or security software",
+    "class_code": "43233200",
+    "class_title": "Security and protection software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43233402",
+    "commodity_title": "Data conversion software",
+    "class_code": "43233400",
+    "class_title": "Utility and device driver software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43233403",
+    "commodity_title": "Data compression software",
+    "class_code": "43233400",
+    "class_title": "Utility and device driver software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43233405",
+    "commodity_title": "Device drivers or system software",
+    "class_code": "43233400",
+    "class_title": "Utility and device driver software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43233407",
+    "commodity_title": "Graphics card driver software",
+    "class_code": "43233400",
+    "class_title": "Utility and device driver software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43233410",
+    "commodity_title": "Printer driver software",
+    "class_code": "43233400",
+    "class_title": "Utility and device driver software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43233413",
+    "commodity_title": "Voice recognition software",
+    "class_code": "43233400",
+    "class_title": "Utility and device driver software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43233414",
+    "commodity_title": "Storage media loading software",
+    "class_code": "43233400",
+    "class_title": "Utility and device driver software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43233415",
+    "commodity_title": "Backup or archival software",
+    "class_code": "43233400",
+    "class_title": "Utility and device driver software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43233420",
+    "commodity_title": "Text to speech conversion software",
+    "class_code": "43233400",
+    "class_title": "Utility and device driver software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43233422",
+    "commodity_title": "Eye tracking software",
+    "class_code": "43233400",
+    "class_title": "Utility and device driver software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43233501",
+    "commodity_title": "Electronic mail software",
+    "class_code": "43233500",
+    "class_title": "Information exchange software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43233502",
+    "commodity_title": "Video conferencing software",
+    "class_code": "43233500",
+    "class_title": "Information exchange software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43233503",
+    "commodity_title": "Network conferencing software",
+    "class_code": "43233500",
+    "class_title": "Information exchange software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43233504",
+    "commodity_title": "Instant messaging software",
+    "class_code": "43233500",
+    "class_title": "Information exchange software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43233506",
+    "commodity_title": "Map creation software",
+    "class_code": "43233500",
+    "class_title": "Information exchange software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43233508",
+    "commodity_title": "Mobile operator specific application software",
+    "class_code": "43233500",
+    "class_title": "Information exchange software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43233509",
+    "commodity_title": "Mobile messaging service software",
+    "class_code": "43233500",
+    "class_title": "Information exchange software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43233511",
+    "commodity_title": "Mobile location based services software",
+    "class_code": "43233500",
+    "class_title": "Information exchange software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43233513",
+    "commodity_title": "Cloud-based data access and sharing software",
+    "class_code": "43233500",
+    "class_title": "Information exchange software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  },
+  {
+    "commodity_code": "43233701",
+    "commodity_title": "Enterprise system management software",
+    "class_code": "43233700",
+    "class_title": "System management software",
+    "family_code": "43230000",
+    "family_title": "Software",
+    "segment_code": "43000000",
+    "segment_title": "Information Technology Broadcasting and Telecommunications"
+  }
+]
