@@ -83,9 +83,13 @@ Use these accounts for scoring experiments:
 | Dave Grijalva | `d1ab149e-0981-4e7d-a236-d3b8bfaa8690` |
 | Joe Fernandez | `cb1ef5ac-f2e9-44c9-9d04-221e72f118d2` |
 
-## Vault Research
+## Research
 
-This project connects to the Response Scoring Framework research in the Obsidian vault:
+- **Assessment methods:** `docs/research/assessment-methods.md` — comprehensive review of structured interviews, psychometrics, AI-assisted assessment, BARS rubric design, validity/reliability methodology, and specific recommendations for allUP's scoring approach. Read this before designing scoring operations or rubrics.
+
+### Vault Research (Weston's local Obsidian vault)
+
+Additional research lives in the Response Scoring Framework project in the vault:
 
 - **Project home:** `$OBSIDIAN_VAULT_ROOT/01_Projects/Response Scoring Framework/`
 - **Framework doc:** `Response Scoring & Competency Framework.md`
